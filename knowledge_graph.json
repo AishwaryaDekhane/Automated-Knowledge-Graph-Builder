@@ -1,0 +1,5122 @@
+{
+  "nodes": [
+    {
+      "id": "PLDs",
+      "label": "ORDINAL"
+    },
+    {
+      "id": "array",
+      "label": "No label"
+    },
+    {
+      "id": "is",
+      "label": "No label"
+    },
+    {
+      "id": "type",
+      "label": "No label"
+    },
+    {
+      "id": "circuit",
+      "label": "No label"
+    },
+    {
+      "id": "programmed",
+      "label": "No label"
+    },
+    {
+      "id": "manufacturing",
+      "label": "No label"
+    },
+    {
+      "id": "FPGAs",
+      "label": "No label"
+    },
+    {
+      "id": "are",
+      "label": "No label"
+    },
+    {
+      "id": "subset",
+      "label": "No label"
+    },
+    {
+      "id": "devices",
+      "label": "No label"
+    },
+    {
+      "id": "referred",
+      "label": "No label"
+    },
+    {
+      "id": "consist",
+      "label": "No label"
+    },
+    {
+      "id": "blocks",
+      "label": "No label"
+    },
+    {
+      "id": "grid",
+      "label": "No label"
+    },
+    {
+      "id": "configured",
+      "label": "No label"
+    },
+    {
+      "id": "field",
+      "label": "No label"
+    },
+    {
+      "id": "interconnect",
+      "label": "No label"
+    },
+    {
+      "id": "used",
+      "label": "No label"
+    },
+    {
+      "id": "production",
+      "label": "No label"
+    },
+    {
+      "id": "products",
+      "label": "No label"
+    },
+    {
+      "id": "research",
+      "label": "No label"
+    },
+    {
+      "id": "cost",
+      "label": "No label"
+    },
+    {
+      "id": "applications",
+      "label": "No label"
+    },
+    {
+      "id": "include",
+      "label": "No label"
+    },
+    {
+      "id": "benefit",
+      "label": "No label"
+    },
+    {
+      "id": "flexibility",
+      "label": "No label"
+    },
+    {
+      "id": "VHDL",
+      "label": "PERSON"
+    },
+    {
+      "id": "similar",
+      "label": "No label"
+    },
+    {
+      "id": "ones",
+      "label": "No label"
+    },
+    {
+      "id": "circuits",
+      "label": "No label"
+    },
+    {
+      "id": "FPGA",
+      "label": "FAC"
+    },
+    {
+      "id": "act",
+      "label": "No label"
+    },
+    {
+      "id": "gates",
+      "label": "No label"
+    },
+    {
+      "id": "which",
+      "label": "No label"
+    },
+    {
+      "id": "be",
+      "label": "No label"
+    },
+    {
+      "id": "memory.[1",
+      "label": "No label"
+    },
+    {
+      "id": "performed",
+      "label": "No label"
+    },
+    {
+      "id": "software",
+      "label": "No label"
+    },
+    {
+      "id": "have",
+      "label": "No label"
+    },
+    {
+      "id": "role",
+      "label": "No label"
+    },
+    {
+      "id": "development",
+      "label": "No label"
+    },
+    {
+      "id": "capability",
+      "label": "No label"
+    },
+    {
+      "id": "start",
+      "label": "No label"
+    },
+    {
+      "id": "hardware",
+      "label": "No label"
+    },
+    {
+      "id": "enable",
+      "label": "No label"
+    },
+    {
+      "id": "phase",
+      "label": "No label"
+    },
+    {
+      "id": "ASICs",
+      "label": "No label"
+    },
+    {
+      "id": "sprouted",
+      "label": "No label"
+    },
+    {
+      "id": "memory",
+      "label": "No label"
+    },
+    {
+      "id": "PROMs",
+      "label": "No label"
+    },
+    {
+      "id": "had",
+      "label": "No label"
+    },
+    {
+      "id": "batches",
+      "label": "No label"
+    },
+    {
+      "id": "factory",
+      "label": "No label"
+    },
+    {
+      "id": "Altera",
+      "label": "ORG"
+    },
+    {
+      "id": "1983",
+      "label": "DATE"
+    },
+    {
+      "id": "first",
+      "label": "ORDINAL"
+    },
+    {
+      "id": "1984",
+      "label": "DATE"
+    },
+    {
+      "id": "EP300",
+      "label": "GPE"
+    },
+    {
+      "id": "founded",
+      "label": "No label"
+    },
+    {
+      "id": "delivered",
+      "label": "No label"
+    },
+    {
+      "id": "featured",
+      "label": "No label"
+    },
+    {
+      "id": "package",
+      "label": "No label"
+    },
+    {
+      "id": "users",
+      "label": "No label"
+    },
+    {
+      "id": "shine",
+      "label": "No label"
+    },
+    {
+      "id": "die",
+      "label": "No label"
+    },
+    {
+      "id": "that",
+      "label": "No label"
+    },
+    {
+      "id": "held",
+      "label": "No label"
+    },
+    {
+      "id": "Xilinx",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "64",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "CLBs",
+      "label": "ORG"
+    },
+    {
+      "id": "two",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "three",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "produced",
+      "label": "No label"
+    },
+    {
+      "id": "1985[3",
+      "label": "No label"
+    },
+    {
+      "id": "]",
+      "label": "No label"
+    },
+    {
+      "id": "XC2064",
+      "label": "No label"
+    },
+    {
+      "id": "interconnects",
+      "label": "No label"
+    },
+    {
+      "id": "beginnings",
+      "label": "No label"
+    },
+    {
+      "id": "technology",
+      "label": "No label"
+    },
+    {
+      "id": "tables",
+      "label": "No label"
+    },
+    {
+      "id": "1987",
+      "label": "DATE"
+    },
+    {
+      "id": "the Naval Surface Warfare Center",
+      "label": "ORG"
+    },
+    {
+      "id": "Steve Casselman",
+      "label": "PERSON"
+    },
+    {
+      "id": "600,000",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "Casselman",
+      "label": "PERSON"
+    },
+    {
+      "id": "1992.[3",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "funded",
+      "label": "No label"
+    },
+    {
+      "id": "Center",
+      "label": "No label"
+    },
+    {
+      "id": "implement",
+      "label": "No label"
+    },
+    {
+      "id": "related",
+      "label": "No label"
+    },
+    {
+      "id": "system",
+      "label": "No label"
+    },
+    {
+      "id": "issued",
+      "label": "No label"
+    },
+    {
+      "id": "1985",
+      "label": "DATE"
+    },
+    {
+      "id": "the mid-1990s",
+      "label": "DATE"
+    },
+    {
+      "id": "1993",
+      "label": "DATE"
+    },
+    {
+      "id": "Actel",
+      "label": "ORG"
+    },
+    {
+      "id": "Microsemi",
+      "label": "GPE"
+    },
+    {
+      "id": "about 18 percent",
+      "label": "PERCENT"
+    },
+    {
+      "id": "grew",
+      "label": "No label"
+    },
+    {
+      "id": "mid-1990s",
+      "label": "No label"
+    },
+    {
+      "id": "portion",
+      "label": "No label"
+    },
+    {
+      "id": "share",
+      "label": "No label"
+    },
+    {
+      "id": "serving",
+      "label": "No label"
+    },
+    {
+      "id": "percent",
+      "label": "No label"
+    },
+    {
+      "id": "market.[6",
+      "label": "No label"
+    },
+    {
+      "id": "The 1990s",
+      "label": "DATE"
+    },
+    {
+      "id": "the early 1990s",
+      "label": "DATE"
+    },
+    {
+      "id": "the end of the decade",
+      "label": "DATE"
+    },
+    {
+      "id": "1990s",
+      "label": "No label"
+    },
+    {
+      "id": "were",
+      "label": "No label"
+    },
+    {
+      "id": "period",
+      "label": "No label"
+    },
+    {
+      "id": "growth",
+      "label": "No label"
+    },
+    {
+      "id": "sophistication",
+      "label": "No label"
+    },
+    {
+      "id": "volume",
+      "label": "No label"
+    },
+    {
+      "id": "telecommunications",
+      "label": "No label"
+    },
+    {
+      "id": "found",
+      "label": "No label"
+    },
+    {
+      "id": "end",
+      "label": "No label"
+    },
+    {
+      "id": "decade",
+      "label": "No label"
+    },
+    {
+      "id": "way",
+      "label": "No label"
+    },
+    {
+      "id": "consumer",
+      "label": "No label"
+    },
+    {
+      "id": "2013",
+      "label": "DATE"
+    },
+    {
+      "id": "31 percent",
+      "label": "PERCENT"
+    },
+    {
+      "id": "10 percent",
+      "label": "PERCENT"
+    },
+    {
+      "id": "36 percent",
+      "label": "PERCENT"
+    },
+    {
+      "id": "approximately 77 percent",
+      "label": "PERCENT"
+    },
+    {
+      "id": "represented",
+      "label": "No label"
+    },
+    {
+      "id": "market.[9",
+      "label": "No label"
+    },
+    {
+      "id": "Microsoft",
+      "label": "ORG"
+    },
+    {
+      "id": "Bing",
+      "label": "PERSON"
+    },
+    {
+      "id": "2014",
+      "label": "DATE"
+    },
+    {
+      "id": "2018",
+      "label": "DATE"
+    },
+    {
+      "id": "Azure",
+      "label": "GPE"
+    },
+    {
+      "id": "Companies",
+      "label": "No label"
+    },
+    {
+      "id": "systems",
+      "label": "No label"
+    },
+    {
+      "id": "centers",
+      "label": "No label"
+    },
+    {
+      "id": "operate",
+      "label": "No label"
+    },
+    {
+      "id": "started",
+      "label": "No label"
+    },
+    {
+      "id": "performance",
+      "label": "No label"
+    },
+    {
+      "id": "advantage",
+      "label": "No label"
+    },
+    {
+      "id": "accelerate",
+      "label": "No label"
+    },
+    {
+      "id": "began",
+      "label": "No label"
+    },
+    {
+      "id": "workloads",
+      "label": "No label"
+    },
+    {
+      "id": "platform.[11",
+      "label": "No label"
+    },
+    {
+      "id": "timelines",
+      "label": "No label"
+    },
+    {
+      "id": "indicate",
+      "label": "No label"
+    },
+    {
+      "id": "progress",
+      "label": "No label"
+    },
+    {
+      "id": "aspects",
+      "label": "No label"
+    },
+    {
+      "id": "design",
+      "label": "No label"
+    },
+    {
+      "id": "implementation",
+      "label": "No label"
+    },
+    {
+      "id": "ASIC",
+      "label": "ORG"
+    },
+    {
+      "id": "design[18",
+      "label": "ORG"
+    },
+    {
+      "id": "perform",
+      "label": "No label"
+    },
+    {
+      "id": "update",
+      "label": "No label"
+    },
+    {
+      "id": "shipping",
+      "label": "No label"
+    },
+    {
+      "id": "relative",
+      "label": "No label"
+    },
+    {
+      "id": "costs",
+      "label": "No label"
+    },
+    {
+      "id": "ability",
+      "label": "No label"
+    },
+    {
+      "id": "offer",
+      "label": "No label"
+    },
+    {
+      "id": "many",
+      "label": "No label"
+    },
+    {
+      "id": "applications.[1",
+      "label": "No label"
+    },
+    {
+      "id": "designs",
+      "label": "No label"
+    },
+    {
+      "id": "employ",
+      "label": "No label"
+    },
+    {
+      "id": "it",
+      "label": "No label"
+    },
+    {
+      "id": "becomes",
+      "label": "No label"
+    },
+    {
+      "id": "timing",
+      "label": "No label"
+    },
+    {
+      "id": "data",
+      "label": "No label"
+    },
+    {
+      "id": "verify",
+      "label": "No label"
+    },
+    {
+      "id": "time",
+      "label": "No label"
+    },
+    {
+      "id": "planning",
+      "label": "No label"
+    },
+    {
+      "id": "helps",
+      "label": "No label"
+    },
+    {
+      "id": "allocation",
+      "label": "No label"
+    },
+    {
+      "id": "slowly.[20][21",
+      "label": "NORP"
+    },
+    {
+      "id": "RC",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "zeros",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "addition",
+      "label": "No label"
+    },
+    {
+      "id": "functions",
+      "label": "No label"
+    },
+    {
+      "id": "feature",
+      "label": "No label"
+    },
+    {
+      "id": "rate",
+      "label": "No label"
+    },
+    {
+      "id": "pin",
+      "label": "No label"
+    },
+    {
+      "id": "engineer",
+      "label": "No label"
+    },
+    {
+      "id": "set",
+      "label": "No label"
+    },
+    {
+      "id": "pins",
+      "label": "No label"
+    },
+    {
+      "id": "channels",
+      "label": "No label"
+    },
+    {
+      "id": "common",
+      "label": "No label"
+    },
+    {
+      "id": "loops",
+      "label": "No label"
+    },
+    {
+      "id": "oscillators",
+      "label": "No label"
+    },
+    {
+      "id": "generation",
+      "label": "No label"
+    },
+    {
+      "id": "deserializer",
+      "label": "No label"
+    },
+    {
+      "id": "comparators",
+      "label": "No label"
+    },
+    {
+      "id": "connected",
+      "label": "No label"
+    },
+    {
+      "id": "analog",
+      "label": "No label"
+    },
+    {
+      "id": "digital",
+      "label": "No label"
+    },
+    {
+      "id": "integrated",
+      "label": "No label"
+    },
+    {
+      "id": "chip",
+      "label": "No label"
+    },
+    {
+      "id": "blur",
+      "label": "No label"
+    },
+    {
+      "id": "line",
+      "label": "No label"
+    },
+    {
+      "id": "carries",
+      "label": "No label"
+    },
+    {
+      "id": "fabric",
+      "label": "No label"
+    },
+    {
+      "id": "values",
+      "label": "No label"
+    },
+    {
+      "id": "one",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "consists",
+      "label": "No label"
+    },
+    {
+      "id": "depending",
+      "label": "No label"
+    },
+    {
+      "id": "vendor",
+      "label": "No label"
+    },
+    {
+      "id": "number",
+      "label": "No label"
+    },
+    {
+      "id": "signals",
+      "label": "No label"
+    },
+    {
+      "id": "fit",
+      "label": "No label"
+    },
+    {
+      "id": "height",
+      "label": "No label"
+    },
+    {
+      "id": "row",
+      "label": "No label"
+    },
+    {
+      "id": "width",
+      "label": "No label"
+    },
+    {
+      "id": "column",
+      "label": "No label"
+    },
+    {
+      "id": "I/Os",
+      "label": "ORG"
+    },
+    {
+      "id": "mapped",
+      "label": "No label"
+    },
+    {
+      "id": "resources",
+      "label": "No label"
+    },
+    {
+      "id": "determined",
+      "label": "No label"
+    },
+    {
+      "id": "vary",
+      "label": "No label"
+    },
+    {
+      "id": "amount",
+      "label": "No label"
+    },
+    {
+      "id": "logic",
+      "label": "No label"
+    },
+    {
+      "id": "requires",
+      "label": "No label"
+    },
+    {
+      "id": "example",
+      "label": "No label"
+    },
+    {
+      "id": "switch",
+      "label": "No label"
+    },
+    {
+      "id": "routing",
+      "label": "No label"
+    },
+    {
+      "id": "count",
+      "label": "No label"
+    },
+    {
+      "id": "increase",
+      "label": "No label"
+    },
+    {
+      "id": "terms",
+      "label": "No label"
+    },
+    {
+      "id": "estimates",
+      "label": "No label"
+    },
+    {
+      "id": "those",
+      "label": "No label"
+    },
+    {
+      "id": "derived",
+      "label": "No label"
+    },
+    {
+      "id": "rule",
+      "label": "No label"
+    },
+    {
+      "id": "experiments",
+      "label": "No label"
+    },
+    {
+      "id": "4",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "LUT",
+      "label": "ORG"
+    },
+    {
+      "id": "3",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "the second mux",
+      "label": "FAC"
+    },
+    {
+      "id": "the third mux",
+      "label": "FAC"
+    },
+    {
+      "id": "space.[24][25][26",
+      "label": "ORG"
+    },
+    {
+      "id": "cells",
+      "label": "No label"
+    },
+    {
+      "id": "split",
+      "label": "No label"
+    },
+    {
+      "id": "LUTs",
+      "label": "No label"
+    },
+    {
+      "id": "combined",
+      "label": "No label"
+    },
+    {
+      "id": "mode",
+      "label": "No label"
+    },
+    {
+      "id": "multiplexer",
+      "label": "No label"
+    },
+    {
+      "id": "fed",
+      "label": "No label"
+    },
+    {
+      "id": "adder",
+      "label": "No label"
+    },
+    {
+      "id": "selection",
+      "label": "No label"
+    },
+    {
+      "id": "mux",
+      "label": "No label"
+    },
+    {
+      "id": "programming",
+      "label": "No label"
+    },
+    {
+      "id": "stored",
+      "label": "No label"
+    },
+    {
+      "id": "practice",
+      "label": "No label"
+    },
+    {
+      "id": "parts",
+      "label": "No label"
+    },
+    {
+      "id": "order",
+      "label": "No label"
+    },
+    {
+      "id": "DSP",
+      "label": "ORG"
+    },
+    {
+      "id": "expand",
+      "label": "No label"
+    },
+    {
+      "id": "capabilities",
+      "label": "No label"
+    },
+    {
+      "id": "fixed",
+      "label": "No label"
+    },
+    {
+      "id": "silicon",
+      "label": "No label"
+    },
+    {
+      "id": "embedded",
+      "label": "No label"
+    },
+    {
+      "id": "building",
+      "label": "No label"
+    },
+    {
+      "id": "primitives",
+      "label": "No label"
+    },
+    {
+      "id": "Examples",
+      "label": "No label"
+    },
+    {
+      "id": "these",
+      "label": "No label"
+    },
+    {
+      "id": "PCI",
+      "label": "ORG"
+    },
+    {
+      "id": "PCI Express",
+      "label": "ORG"
+    },
+    {
+      "id": "deserializers",
+      "label": "ORG"
+    },
+    {
+      "id": "contain",
+      "label": "No label"
+    },
+    {
+      "id": "cores",
+      "label": "No label"
+    },
+    {
+      "id": "exist",
+      "label": "No label"
+    },
+    {
+      "id": "out",
+      "label": "No label"
+    },
+    {
+      "id": "transistors",
+      "label": "No label"
+    },
+    {
+      "id": "they",
+      "label": "No label"
+    },
+    {
+      "id": "more",
+      "label": "No label"
+    },
+    {
+      "id": "free",
+      "label": "No label"
+    },
+    {
+      "id": "transceivers",
+      "label": "No label"
+    },
+    {
+      "id": "along",
+      "label": "No label"
+    },
+    {
+      "id": "serializers",
+      "label": "No label"
+    },
+    {
+      "id": "functionality",
+      "label": "No label"
+    },
+    {
+      "id": "coding",
+      "label": "No label"
+    },
+    {
+      "id": "implemented",
+      "label": "No label"
+    },
+    {
+      "id": "Nios II",
+      "label": "LAW"
+    },
+    {
+      "id": "MicroBlaze",
+      "label": "ORG"
+    },
+    {
+      "id": "Mico32",
+      "label": "ORG"
+    },
+    {
+      "id": "the Stretch S5000",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "use",
+      "label": "No label"
+    },
+    {
+      "id": "processor",
+      "label": "No label"
+    },
+    {
+      "id": "II",
+      "label": "No label"
+    },
+    {
+      "id": "examples",
+      "label": "No label"
+    },
+    {
+      "id": "processors",
+      "label": "No label"
+    },
+    {
+      "id": "led",
+      "label": "No label"
+    },
+    {
+      "id": "idea",
+      "label": "No label"
+    },
+    {
+      "id": "computing",
+      "label": "No label"
+    },
+    {
+      "id": "reconfigure",
+      "label": "No label"
+    },
+    {
+      "id": "suit",
+      "label": "No label"
+    },
+    {
+      "id": "hand",
+      "label": "No label"
+    },
+    {
+      "id": "microprocessors",
+      "label": "No label"
+    },
+    {
+      "id": "S5000",
+      "label": "No label"
+    },
+    {
+      "id": "adopt",
+      "label": "No label"
+    },
+    {
+      "id": "providing",
+      "label": "No label"
+    },
+    {
+      "id": "2012",
+      "label": "DATE"
+    },
+    {
+      "id": "1.0\u00a0GHz",
+      "label": "QUANTITY"
+    },
+    {
+      "id": "ARM Cortex-A9",
+      "label": "ORG"
+    },
+    {
+      "id": "MPCore",
+      "label": "ORG"
+    },
+    {
+      "id": "800\u00a0MHz",
+      "label": "QUANTITY"
+    },
+    {
+      "id": "ARM Cortex-A9 MPCore",
+      "label": "ORG"
+    },
+    {
+      "id": "Atmel",
+      "label": "ORG"
+    },
+    {
+      "id": "ARM Cortex-M3",
+      "label": "ORG"
+    },
+    {
+      "id": "512\u00a0kB",
+      "label": "QUANTITY"
+    },
+    {
+      "id": "64\u00a0kB",
+      "label": "QUANTITY"
+    },
+    {
+      "id": "RAM",
+      "label": "ORG"
+    },
+    {
+      "id": "taken",
+      "label": "No label"
+    },
+    {
+      "id": "technologies",
+      "label": "No label"
+    },
+    {
+      "id": "Zynq-7000",
+      "label": "No label"
+    },
+    {
+      "id": "includes",
+      "label": "No label"
+    },
+    {
+      "id": "fabric,[28",
+      "label": "No label"
+    },
+    {
+      "id": "FPSLIC",
+      "label": "No label"
+    },
+    {
+      "id": "uses",
+      "label": "No label"
+    },
+    {
+      "id": "combination",
+      "label": "No label"
+    },
+    {
+      "id": "architecture",
+      "label": "No label"
+    },
+    {
+      "id": "incorporate",
+      "label": "No label"
+    },
+    {
+      "id": "needed",
+      "label": "No label"
+    },
+    {
+      "id": "kB",
+      "label": "No label"
+    },
+    {
+      "id": "flash",
+      "label": "No label"
+    },
+    {
+      "id": "peripherals",
+      "label": "No label"
+    },
+    {
+      "id": "converters",
+      "label": "No label"
+    },
+    {
+      "id": "fabric.[citation",
+      "label": "No label"
+    },
+    {
+      "id": "Most",
+      "label": "No label"
+    },
+    {
+      "id": "inside",
+      "label": "No label"
+    },
+    {
+      "id": "networks",
+      "label": "No label"
+    },
+    {
+      "id": "clock",
+      "label": "No label"
+    },
+    {
+      "id": "tree",
+      "label": "No label"
+    },
+    {
+      "id": "skew",
+      "label": "No label"
+    },
+    {
+      "id": "frequency",
+      "label": "No label"
+    },
+    {
+      "id": "each",
+      "label": "No label"
+    },
+    {
+      "id": "forming",
+      "label": "No label"
+    },
+    {
+      "id": "recovered",
+      "label": "No label"
+    },
+    {
+      "id": "stream",
+      "label": "No label"
+    },
+    {
+      "id": "working",
+      "label": "No label"
+    },
+    {
+      "id": "clocks",
+      "label": "No label"
+    },
+    {
+      "id": "aiding",
+      "label": "No label"
+    },
+    {
+      "id": "construction",
+      "label": "No label"
+    },
+    {
+      "id": "Tabula",
+      "label": "ORG"
+    },
+    {
+      "id": "28\u00a0nm",
+      "label": "QUANTITY"
+    },
+    {
+      "id": "consumption",
+      "label": "No label"
+    },
+    {
+      "id": "vendors",
+      "label": "No label"
+    },
+    {
+      "id": "said",
+      "label": "No label"
+    },
+    {
+      "id": "introduction",
+      "label": "No label"
+    },
+    {
+      "id": "several",
+      "label": "No label"
+    },
+    {
+      "id": "lines",
+      "label": "No label"
+    },
+    {
+      "id": "using",
+      "label": "No label"
+    },
+    {
+      "id": "developed",
+      "label": "No label"
+    },
+    {
+      "id": "four",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "28\u00a0Gbit",
+      "label": "QUANTITY"
+    },
+    {
+      "id": "FPGA.[32",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "approach",
+      "label": "No label"
+    },
+    {
+      "id": "stacks",
+      "label": "No label"
+    },
+    {
+      "id": "dies",
+      "label": "No label"
+    },
+    {
+      "id": "side",
+      "label": "No label"
+    },
+    {
+      "id": "interposer",
+      "label": "No label"
+    },
+    {
+      "id": "piece",
+      "label": "No label"
+    },
+    {
+      "id": "created",
+      "label": "No label"
+    },
+    {
+      "id": "different",
+      "label": "No label"
+    },
+    {
+      "id": "built",
+      "label": "No label"
+    },
+    {
+      "id": "Intel",
+      "label": "ORG"
+    },
+    {
+      "id": "multi_die",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "EMIB",
+      "label": "ORG"
+    },
+    {
+      "id": "technology.[33",
+      "label": "ORG"
+    },
+    {
+      "id": "connecting",
+      "label": "No label"
+    },
+    {
+      "id": "behavior",
+      "label": "No label"
+    },
+    {
+      "id": "user",
+      "label": "No label"
+    },
+    {
+      "id": "provides",
+      "label": "No label"
+    },
+    {
+      "id": "language",
+      "label": "No label"
+    },
+    {
+      "id": "work",
+      "label": "No label"
+    },
+    {
+      "id": "structures",
+      "label": "No label"
+    },
+    {
+      "id": "drawing",
+      "label": "No label"
+    },
+    {
+      "id": "allow",
+      "label": "No label"
+    },
+    {
+      "id": "visualization",
+      "label": "No label"
+    },
+    {
+      "id": "validate",
+      "label": "No label"
+    },
+    {
+      "id": "transferred",
+      "label": "No label"
+    },
+    {
+      "id": "interface",
+      "label": "No label"
+    },
+    {
+      "id": "device",
+      "label": "No label"
+    },
+    {
+      "id": "EEPROM",
+      "label": "No label"
+    },
+    {
+      "id": "Verilog",
+      "label": "LAW"
+    },
+    {
+      "id": "National Instruments'",
+      "label": "ORG"
+    },
+    {
+      "id": "HDLs",
+      "label": "No label"
+    },
+    {
+      "id": "G",
+      "label": "No label"
+    },
+    {
+      "id": "has",
+      "label": "No label"
+    },
+    {
+      "id": "source",
+      "label": "No label"
+    },
+    {
+      "id": "third",
+      "label": "ORDINAL"
+    },
+    {
+      "id": "OpenCores",
+      "label": "ORG"
+    },
+    {
+      "id": "BSD",
+      "label": "ORG"
+    },
+    {
+      "id": "libraries",
+      "label": "No label"
+    },
+    {
+      "id": "available",
+      "label": "No label"
+    },
+    {
+      "id": "released",
+      "label": "No label"
+    },
+    {
+      "id": "licenses",
+      "label": "No label"
+    },
+    {
+      "id": "communities",
+      "label": "No label"
+    },
+    {
+      "id": "GPL",
+      "label": "No label"
+    },
+    {
+      "id": "known",
+      "label": "No label"
+    },
+    {
+      "id": "RTL",
+      "label": "ORG"
+    },
+    {
+      "id": "simulate",
+      "label": "No label"
+    },
+    {
+      "id": "flow",
+      "label": "No label"
+    },
+    {
+      "id": "developer",
+      "label": "No label"
+    },
+    {
+      "id": "stages",
+      "label": "No label"
+    },
+    {
+      "id": "process",
+      "label": "No label"
+    },
+    {
+      "id": "description",
+      "label": "No label"
+    },
+    {
+      "id": "engine",
+      "label": "No label"
+    },
+    {
+      "id": "netlist",
+      "label": "No label"
+    },
+    {
+      "id": "translated",
+      "label": "No label"
+    },
+    {
+      "id": "proceeded",
+      "label": "No label"
+    },
+    {
+      "id": "errors",
+      "label": "No label"
+    },
+    {
+      "id": "laid",
+      "label": "No label"
+    },
+    {
+      "id": "point",
+      "label": "No label"
+    },
+    {
+      "id": "annotated",
+      "label": "No label"
+    },
+    {
+      "id": "run",
+      "label": "No label"
+    },
+    {
+      "id": "OpenCL",
+      "label": "ORG"
+    },
+    {
+      "id": "take",
+      "label": "No label"
+    },
+    {
+      "id": "efficiencies",
+      "label": "No label"
+    },
+    {
+      "id": "provide",
+      "label": "No label"
+    },
+    {
+      "id": "programmers",
+      "label": "No label"
+    },
+    {
+      "id": "develop",
+      "label": "No label"
+    },
+    {
+      "id": "code",
+      "label": "No label"
+    },
+    {
+      "id": "language.[35",
+      "label": "No label"
+    },
+    {
+      "id": "see",
+      "label": "No label"
+    },
+    {
+      "id": "information",
+      "label": "No label"
+    },
+    {
+      "id": "HDL",
+      "label": "No label"
+    },
+    {
+      "id": "SRAM",
+      "label": "ORG"
+    },
+    {
+      "id": "rely",
+      "label": "No label"
+    },
+    {
+      "id": "load",
+      "label": "No label"
+    },
+    {
+      "id": "controls",
+      "label": "No label"
+    },
+    {
+      "id": "based",
+      "label": "No label"
+    },
+    {
+      "id": "CMOS",
+      "label": "No label"
+    },
+    {
+      "id": "alternatives",
+      "label": "No label"
+    },
+    {
+      "id": "2016",
+      "label": "DATE"
+    },
+    {
+      "id": "AMD",
+      "label": "ORG"
+    },
+    {
+      "id": "nearly 90 percent",
+      "label": "PERCENT"
+    },
+    {
+      "id": "rivals",
+      "label": "No label"
+    },
+    {
+      "id": "industry",
+      "label": "No label"
+    },
+    {
+      "id": "part",
+      "label": "No label"
+    },
+    {
+      "id": "controlled",
+      "label": "No label"
+    },
+    {
+      "id": "market",
+      "label": "No label"
+    },
+    {
+      "id": "Windows and Linux",
+      "label": "ORG"
+    },
+    {
+      "id": "ISE/Vivado",
+      "label": "ORG"
+    },
+    {
+      "id": "Windows",
+      "label": "No label"
+    },
+    {
+      "id": "enables",
+      "label": "No label"
+    },
+    {
+      "id": "March 2010",
+      "label": "DATE"
+    },
+    {
+      "id": "March 24, 2015",
+      "label": "DATE"
+    },
+    {
+      "id": "announced",
+      "label": "No label"
+    },
+    {
+      "id": "March",
+      "label": "No label"
+    },
+    {
+      "id": "claims",
+      "label": "No label"
+    },
+    {
+      "id": "savings",
+      "label": "No label"
+    },
+    {
+      "id": "applications.[40",
+      "label": "No label"
+    },
+    {
+      "id": "shut",
+      "label": "No label"
+    },
+    {
+      "id": "June 1, 2015",
+      "label": "DATE"
+    },
+    {
+      "id": "approximately $16.7 billion",
+      "label": "MONEY"
+    },
+    {
+      "id": "December 30",
+      "label": "DATE"
+    },
+    {
+      "id": "2015.[42",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "June",
+      "label": "No label"
+    },
+    {
+      "id": "acquire",
+      "label": "No label"
+    },
+    {
+      "id": "billion",
+      "label": "No label"
+    },
+    {
+      "id": "completed",
+      "label": "No label"
+    },
+    {
+      "id": "December",
+      "label": "No label"
+    },
+    {
+      "id": "October 27, 2020",
+      "label": "DATE"
+    },
+    {
+      "id": "Xilinx[43",
+      "label": "ORG"
+    },
+    {
+      "id": "about $50 billion",
+      "label": "MONEY"
+    },
+    {
+      "id": "February",
+      "label": "DATE"
+    },
+    {
+      "id": "October",
+      "label": "No label"
+    },
+    {
+      "id": "valued",
+      "label": "No label"
+    },
+    {
+      "id": "February 2024",
+      "label": "DATE"
+    },
+    {
+      "id": "became",
+      "label": "No label"
+    },
+    {
+      "id": "Intel.[45",
+      "label": "No label"
+    },
+    {
+      "id": "Altera Nios II",
+      "label": "ORG"
+    },
+    {
+      "id": "microprocessor",
+      "label": "No label"
+    },
+    {
+      "id": "faster",
+      "label": "No label"
+    },
+    {
+      "id": "nature",
+      "label": "No label"
+    },
+    {
+      "id": "processes.[51",
+      "label": "No label"
+    },
+    {
+      "id": "the late 1990s",
+      "label": "DATE"
+    },
+    {
+      "id": "competitors",
+      "label": "No label"
+    },
+    {
+      "id": "boards",
+      "label": "No label"
+    },
+    {
+      "id": "took",
+      "label": "No label"
+    },
+    {
+      "id": "marketed",
+      "label": "No label"
+    },
+    {
+      "id": "chips",
+      "label": "No label"
+    },
+    {
+      "id": "multipliers",
+      "label": "No label"
+    },
+    {
+      "id": "architectures",
+      "label": "No label"
+    },
+    {
+      "id": "been",
+      "label": "No label"
+    },
+    {
+      "id": "reserve",
+      "label": "No label"
+    },
+    {
+      "id": "evolution",
+      "label": "No label"
+    },
+    {
+      "id": "motivated",
+      "label": "No label"
+    },
+    {
+      "id": "allows",
+      "label": "No label"
+    },
+    {
+      "id": "solutions",
+      "label": "No label"
+    },
+    {
+      "id": "optimized",
+      "label": "No label"
+    },
+    {
+      "id": "tasks",
+      "label": "No label"
+    },
+    {
+      "id": "segmentation",
+      "label": "No label"
+    },
+    {
+      "id": "processing",
+      "label": "No label"
+    },
+    {
+      "id": "associated",
+      "label": "No label"
+    },
+    {
+      "id": "imaging",
+      "label": "No label"
+    },
+    {
+      "id": "2014.[56",
+      "label": "ORG"
+    },
+    {
+      "id": "2018[update",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "AI",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "trend",
+      "label": "No label"
+    },
+    {
+      "id": "algorithm",
+      "label": "No label"
+    },
+    {
+      "id": "computation",
+      "label": "No label"
+    },
+    {
+      "id": "adopting",
+      "label": "No label"
+    },
+    {
+      "id": "As",
+      "label": "No label"
+    },
+    {
+      "id": "seeing",
+      "label": "No label"
+    },
+    {
+      "id": "accelerators",
+      "label": "No label"
+    },
+    {
+      "id": "Project",
+      "label": "No label"
+    },
+    {
+      "id": "accelerating",
+      "label": "No label"
+    },
+    {
+      "id": "2017[update",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "reserved",
+      "label": "No label"
+    },
+    {
+      "id": "companies",
+      "label": "No label"
+    },
+    {
+      "id": "pay",
+      "label": "No label"
+    },
+    {
+      "id": "unit",
+      "label": "No label"
+    },
+    {
+      "id": "affordable",
+      "label": "No label"
+    },
+    {
+      "id": "broadened",
+      "label": "No label"
+    },
+    {
+      "id": "dynamics",
+      "label": "No label"
+    },
+    {
+      "id": "range",
+      "label": "No label"
+    },
+    {
+      "id": "1,000",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "ArVid",
+      "label": "PERSON"
+    },
+    {
+      "id": "Gigabyte Technology's",
+      "label": "ORG"
+    },
+    {
+      "id": "markets",
+      "label": "No label"
+    },
+    {
+      "id": "make",
+      "label": "No label"
+    },
+    {
+      "id": "promotion",
+      "label": "No label"
+    },
+    {
+      "id": "runs",
+      "label": "No label"
+    },
+    {
+      "id": "versions",
+      "label": "No label"
+    },
+    {
+      "id": "made",
+      "label": "No label"
+    },
+    {
+      "id": "quantities",
+      "label": "No label"
+    },
+    {
+      "id": "increasing",
+      "label": "No label"
+    },
+    {
+      "id": "extent",
+      "label": "No label"
+    },
+    {
+      "id": "availability",
+      "label": "No label"
+    },
+    {
+      "id": "the Joint Tactical Radio System",
+      "label": "ORG"
+    },
+    {
+      "id": "Thales and Harris Corporation",
+      "label": "ORG"
+    },
+    {
+      "id": "JTRS",
+      "label": "ORG"
+    },
+    {
+      "id": "US",
+      "label": "GPE"
+    },
+    {
+      "id": "Harris Corporation",
+      "label": "ORG"
+    },
+    {
+      "id": "play",
+      "label": "No label"
+    },
+    {
+      "id": "communications",
+      "label": "No label"
+    },
+    {
+      "id": "System",
+      "label": "No label"
+    },
+    {
+      "id": "Corporation",
+      "label": "No label"
+    },
+    {
+      "id": "ideal",
+      "label": "No label"
+    },
+    {
+      "id": "Thales",
+      "label": "No label"
+    },
+    {
+      "id": "leverages",
+      "label": "No label"
+    },
+    {
+      "id": "fulfill",
+      "label": "No label"
+    },
+    {
+      "id": "demands",
+      "label": "No label"
+    },
+    {
+      "id": "reconfiguration",
+      "label": "No label"
+    },
+    {
+      "id": "L3Harris",
+      "label": "No label"
+    },
+    {
+      "id": "Technologies",
+      "label": "No label"
+    },
+    {
+      "id": "incorporates",
+      "label": "No label"
+    },
+    {
+      "id": "AES",
+      "label": "ORG"
+    },
+    {
+      "id": "256",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "compared",
+      "label": "No label"
+    },
+    {
+      "id": "security",
+      "label": "No label"
+    },
+    {
+      "id": "makes",
+      "label": "No label"
+    },
+    {
+      "id": "fabrication",
+      "label": "No label"
+    },
+    {
+      "id": "exposed",
+      "label": "No label"
+    },
+    {
+      "id": "loads",
+      "label": "No label"
+    },
+    {
+      "id": "on",
+      "label": "No label"
+    },
+    {
+      "id": "spectrum",
+      "label": "No label"
+    },
+    {
+      "id": "designers",
+      "label": "No label"
+    },
+    {
+      "id": "encryption",
+      "label": "No label"
+    },
+    {
+      "id": "ProAsic 3",
+      "label": "FAC"
+    },
+    {
+      "id": "Lattice's XP2",
+      "label": "ORG"
+    },
+    {
+      "id": "store",
+      "label": "No label"
+    },
+    {
+      "id": "expose",
+      "label": "No label"
+    },
+    {
+      "id": "table",
+      "label": "No label"
+    },
+    {
+      "id": "protection",
+      "label": "No label"
+    },
+    {
+      "id": "applications.[clarification",
+      "label": "No label"
+    },
+    {
+      "id": "Customers",
+      "label": "No label"
+    },
+    {
+      "id": "wanting",
+      "label": "No label"
+    },
+    {
+      "id": "guarantee",
+      "label": "No label"
+    },
+    {
+      "id": "resistance",
+      "label": "No label"
+    },
+    {
+      "id": "SoCs",
+      "label": "ORG"
+    },
+    {
+      "id": "unclonable",
+      "label": "ORG"
+    },
+    {
+      "id": "introduced",
+      "label": "No label"
+    },
+    {
+      "id": "levels",
+      "label": "No label"
+    },
+    {
+      "id": "attacks.[65",
+      "label": "No label"
+    },
+    {
+      "id": "Sergei Skorobogatov",
+      "label": "PERSON"
+    },
+    {
+      "id": "Christopher Woods",
+      "label": "PERSON"
+    },
+    {
+      "id": "the Actel/Microsemi",
+      "label": "ORG"
+    },
+    {
+      "id": "vulnerable",
+      "label": "No label"
+    },
+    {
+      "id": "intent",
+      "label": "No label"
+    },
+    {
+      "id": "manufactured",
+      "label": "No label"
+    },
+    {
+      "id": "ProAsic",
+      "label": "No label"
+    },
+    {
+      "id": "2020",
+      "label": "DATE"
+    },
+    {
+      "id": "Starbleed",
+      "label": "ORG"
+    },
+    {
+      "id": "Xilinx 7series",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "discovered",
+      "label": "No label"
+    },
+    {
+      "id": "rendered",
+      "label": "No label"
+    },
+    {
+      "id": "produce",
+      "label": "No label"
+    },
+    {
+      "id": "Ultrascale",
+      "label": "No label"
+    },
+    {
+      "id": "2006",
+      "label": "DATE"
+    },
+    {
+      "id": "40",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "12",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "one third",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "counterparts",
+      "label": "No label"
+    },
+    {
+      "id": "study",
+      "label": "No label"
+    },
+    {
+      "id": "need",
+      "label": "No label"
+    },
+    {
+      "id": "speed",
+      "label": "No label"
+    },
+    {
+      "id": "implementations.[67",
+      "label": "No label"
+    },
+    {
+      "id": "Advantages",
+      "label": "No label"
+    },
+    {
+      "id": "deployed",
+      "label": "No label"
+    },
+    {
+      "id": "Vendors",
+      "label": "No label"
+    },
+    {
+      "id": "prototyping",
+      "label": "No label"
+    },
+    {
+      "id": "developing",
+      "label": "No label"
+    },
+    {
+      "id": "manufacture",
+      "label": "No label"
+    },
+    {
+      "id": "This",
+      "label": "No label"
+    },
+    {
+      "id": "case",
+      "label": "No label"
+    },
+    {
+      "id": "designs.[68",
+      "label": "No label"
+    },
+    {
+      "id": "re",
+      "label": "No label"
+    },
+    {
+      "id": "-",
+      "label": "No label"
+    },
+    {
+      "id": "configuration",
+      "label": "No label"
+    },
+    {
+      "id": "portions",
+      "label": "No label"
+    },
+    {
+      "id": "continue",
+      "label": "No label"
+    },
+    {
+      "id": "EDA",
+      "label": "ORG"
+    },
+    {
+      "id": "differences",
+      "label": "No label"
+    },
+    {
+      "id": "CPLD",
+      "label": "No label"
+    },
+    {
+      "id": "sum",
+      "label": "No label"
+    },
+    {
+      "id": "consisting",
+      "label": "No label"
+    },
+    {
+      "id": "arrays",
+      "label": "No label"
+    },
+    {
+      "id": "registers",
+      "label": "No label"
+    },
+    {
+      "id": "result",
+      "label": "No label"
+    },
+    {
+      "id": "delays",
+      "label": "No label"
+    },
+    {
+      "id": "dominated",
+      "label": "No label"
+    },
+    {
+      "id": "flexible",
+      "label": "No label"
+    },
+    {
+      "id": "practical",
+      "label": "No label"
+    },
+    {
+      "id": "them",
+      "label": "No label"
+    },
+    {
+      "id": "distinction",
+      "label": "No label"
+    },
+    {
+      "id": "size",
+      "label": "No label"
+    },
+    {
+      "id": "larger",
+      "label": "No label"
+    },
+    {
+      "id": "CPLDs",
+      "label": "No label"
+    },
+    {
+      "id": "adders",
+      "label": "No label"
+    },
+    {
+      "id": "require",
+      "label": "No label"
+    },
+    {
+      "id": "preferred",
+      "label": "No label"
+    },
+    {
+      "id": "sequence",
+      "label": "No label"
+    },
+    {
+      "id": "board",
+      "label": "No label"
+    },
+    {
+      "id": "application",
+      "label": "No label"
+    },
+    {
+      "id": "design.[71",
+      "label": "No label"
+    }
+  ],
+  "edges": [
+    {
+      "source": "array",
+      "target": "is",
+      "relation": "type"
+    },
+    {
+      "source": "array",
+      "target": "consist",
+      "relation": "of"
+    },
+    {
+      "source": "array",
+      "target": "blocks",
+      "relation": "of"
+    },
+    {
+      "source": "array",
+      "target": "grid",
+      "relation": "with"
+    },
+    {
+      "source": "array",
+      "target": "consists",
+      "relation": "of"
+    },
+    {
+      "source": "array",
+      "target": "column",
+      "relation": "in"
+    },
+    {
+      "source": "array",
+      "target": "routing",
+      "relation": "than"
+    },
+    {
+      "source": "array",
+      "target": "count",
+      "relation": "with"
+    },
+    {
+      "source": "array",
+      "target": "cores",
+      "relation": "of"
+    },
+    {
+      "source": "is",
+      "target": "research",
+      "relation": "in"
+    },
+    {
+      "source": "is",
+      "target": "start",
+      "relation": "design"
+    },
+    {
+      "source": "is",
+      "target": "feature",
+      "relation": "rate"
+    },
+    {
+      "source": "is",
+      "target": "FPSLIC",
+      "relation": "device"
+    },
+    {
+      "source": "is",
+      "target": "Most",
+      "relation": "circuitry"
+    },
+    {
+      "source": "is",
+      "target": "trend",
+      "relation": "acceleration"
+    },
+    {
+      "source": "is",
+      "target": "applications",
+      "relation": "for"
+    },
+    {
+      "source": "is",
+      "target": "This",
+      "relation": "case"
+    },
+    {
+      "source": "is",
+      "target": "practice",
+      "relation": "in"
+    },
+    {
+      "source": "is",
+      "target": "distinction",
+      "relation": "one"
+    },
+    {
+      "source": "type",
+      "target": "circuit",
+      "relation": "of"
+    },
+    {
+      "source": "circuit",
+      "target": "embedded",
+      "relation": "in"
+    },
+    {
+      "source": "programmed",
+      "target": "manufacturing",
+      "relation": "after"
+    },
+    {
+      "source": "programmed",
+      "target": "batches",
+      "relation": "in"
+    },
+    {
+      "source": "programmed",
+      "target": "factory",
+      "relation": "in"
+    },
+    {
+      "source": "programmed",
+      "target": "mux",
+      "relation": "into"
+    },
+    {
+      "source": "programmed",
+      "target": "time",
+      "relation": "at"
+    },
+    {
+      "source": "FPGAs",
+      "target": "are",
+      "relation": "subset"
+    },
+    {
+      "source": "FPGAs",
+      "target": "cost",
+      "relation": "of"
+    },
+    {
+      "source": "FPGAs",
+      "target": "applications",
+      "relation": "for"
+    },
+    {
+      "source": "FPGAs",
+      "target": "include",
+      "relation": "in"
+    },
+    {
+      "source": "FPGAs",
+      "target": "have",
+      "relation": "capability"
+    },
+    {
+      "source": "FPGAs",
+      "target": "growth",
+      "relation": "for"
+    },
+    {
+      "source": "FPGAs",
+      "target": "found",
+      "relation": "way"
+    },
+    {
+      "source": "FPGAs",
+      "target": "workloads",
+      "relation": "across"
+    },
+    {
+      "source": "FPGAs",
+      "target": "allocation",
+      "relation": "within"
+    },
+    {
+      "source": "FPGAs",
+      "target": "integrated",
+      "relation": "converter"
+    },
+    {
+      "source": "FPGAs",
+      "target": "contain",
+      "relation": "function"
+    },
+    {
+      "source": "FPGAs",
+      "target": "interconnects",
+      "relation": "of"
+    },
+    {
+      "source": "FPGAs",
+      "target": "microprocessors",
+      "relation": "with"
+    },
+    {
+      "source": "FPGAs",
+      "target": "consumption",
+      "relation": "of"
+    },
+    {
+      "source": "FPGAs",
+      "target": "introduction",
+      "relation": "of"
+    },
+    {
+      "source": "FPGAs",
+      "target": "design",
+      "relation": "in"
+    },
+    {
+      "source": "FPGAs",
+      "target": "provide",
+      "relation": "adaptability"
+    },
+    {
+      "source": "FPGAs",
+      "target": "took",
+      "relation": "function"
+    },
+    {
+      "source": "FPGAs",
+      "target": "evolution",
+      "relation": "of"
+    },
+    {
+      "source": "FPGAs",
+      "target": "use",
+      "relation": "of"
+    },
+    {
+      "source": "FPGAs",
+      "target": "seeing",
+      "relation": "use"
+    },
+    {
+      "source": "FPGAs",
+      "target": "runs",
+      "relation": "for"
+    },
+    {
+      "source": "FPGAs",
+      "target": "availability",
+      "relation": "of"
+    },
+    {
+      "source": "FPGAs",
+      "target": "uses",
+      "relation": "for"
+    },
+    {
+      "source": "FPGAs",
+      "target": "play",
+      "relation": "role"
+    },
+    {
+      "source": "FPGAs",
+      "target": "solutions",
+      "relation": "in"
+    },
+    {
+      "source": "FPGAs",
+      "target": "exposed",
+      "relation": "for"
+    },
+    {
+      "source": "FPGAs",
+      "target": "expose",
+      "relation": "bitstream"
+    },
+    {
+      "source": "FPGAs",
+      "target": "vendors",
+      "relation": "from"
+    },
+    {
+      "source": "FPGAs",
+      "target": "introduced",
+      "relation": "with"
+    },
+    {
+      "source": "FPGAs",
+      "target": "discovered",
+      "relation": "in"
+    },
+    {
+      "source": "FPGAs",
+      "target": "implemented",
+      "relation": "on"
+    },
+    {
+      "source": "FPGAs",
+      "target": "Advantages",
+      "relation": "of"
+    },
+    {
+      "source": "FPGAs",
+      "target": "developing",
+      "relation": "on"
+    },
+    {
+      "source": "FPGAs",
+      "target": "distinction",
+      "relation": "between"
+    },
+    {
+      "source": "FPGAs",
+      "target": "require",
+      "relation": "memory"
+    },
+    {
+      "source": "FPGAs",
+      "target": "preferred",
+      "relation": "for"
+    },
+    {
+      "source": "are",
+      "target": "common",
+      "relation": "circuitry"
+    },
+    {
+      "source": "are",
+      "target": "II",
+      "relation": "example"
+    },
+    {
+      "source": "are",
+      "target": "HDLs",
+      "relation": "VHDL"
+    },
+    {
+      "source": "are",
+      "target": "nature",
+      "relation": "because"
+    },
+    {
+      "source": "are",
+      "target": "functions",
+      "relation": "circuit"
+    },
+    {
+      "source": "are",
+      "target": "result",
+      "relation": "as"
+    },
+    {
+      "source": "subset",
+      "target": "devices",
+      "relation": "of"
+    },
+    {
+      "source": "devices",
+      "target": "referred",
+      "relation": "as"
+    },
+    {
+      "source": "devices",
+      "target": "blur",
+      "relation": "line"
+    },
+    {
+      "source": "devices",
+      "target": "incorporate",
+      "relation": "core"
+    },
+    {
+      "source": "devices",
+      "target": "use",
+      "relation": "of"
+    },
+    {
+      "source": "devices",
+      "target": "companies",
+      "relation": "from"
+    },
+    {
+      "source": "devices",
+      "target": "memory",
+      "relation": "as"
+    },
+    {
+      "source": "devices",
+      "target": "differences",
+      "relation": "between"
+    },
+    {
+      "source": "referred",
+      "target": "G",
+      "relation": "as"
+    },
+    {
+      "source": "blocks",
+      "target": "interconnect",
+      "relation": "with"
+    },
+    {
+      "source": "blocks",
+      "target": "FPGA",
+      "relation": "of"
+    },
+    {
+      "source": "blocks",
+      "target": "include",
+      "relation": "element"
+    },
+    {
+      "source": "blocks",
+      "target": "memory.[1",
+      "relation": "of"
+    },
+    {
+      "source": "blocks",
+      "target": "integrated",
+      "relation": "with"
+    },
+    {
+      "source": "blocks",
+      "target": "number",
+      "relation": "of"
+    },
+    {
+      "source": "configured",
+      "target": "field",
+      "relation": "in"
+    },
+    {
+      "source": "configured",
+      "target": "CPLDs",
+      "relation": "at"
+    },
+    {
+      "source": "field",
+      "target": "deployed",
+      "relation": "in"
+    },
+    {
+      "source": "used",
+      "target": "production",
+      "relation": "in"
+    },
+    {
+      "source": "used",
+      "target": "circuits",
+      "relation": "for"
+    },
+    {
+      "source": "used",
+      "target": "development",
+      "relation": "during"
+    },
+    {
+      "source": "used",
+      "target": "1990s",
+      "relation": "in"
+    },
+    {
+      "source": "used",
+      "target": "telecommunications",
+      "relation": "in"
+    },
+    {
+      "source": "used",
+      "target": "generation",
+      "relation": "for"
+    },
+    {
+      "source": "used",
+      "target": "processes.[51",
+      "relation": "for"
+    },
+    {
+      "source": "used",
+      "target": "which",
+      "relation": "fpga.[57"
+    },
+    {
+      "source": "used",
+      "target": "design",
+      "relation": "in"
+    },
+    {
+      "source": "production",
+      "target": "products",
+      "relation": "of"
+    },
+    {
+      "source": "production",
+      "target": "volume",
+      "relation": "of"
+    },
+    {
+      "source": "products",
+      "target": "ArVid",
+      "relation": "as"
+    },
+    {
+      "source": "products",
+      "target": "sum",
+      "relation": "of"
+    },
+    {
+      "source": "cost",
+      "target": "costs",
+      "relation": "notwithstanding"
+    },
+    {
+      "source": "cost",
+      "target": "pay",
+      "relation": "in"
+    },
+    {
+      "source": "cost",
+      "target": "unit",
+      "relation": "per"
+    },
+    {
+      "source": "applications",
+      "target": "include",
+      "relation": "sector"
+    },
+    {
+      "source": "applications",
+      "target": "faster",
+      "relation": "for"
+    },
+    {
+      "source": "applications",
+      "target": "accelerating",
+      "relation": "for"
+    },
+    {
+      "source": "applications",
+      "target": "reserved",
+      "relation": "for"
+    },
+    {
+      "source": "applications",
+      "target": "range",
+      "relation": "of"
+    },
+    {
+      "source": "include",
+      "target": "Examples",
+      "relation": "product"
+    },
+    {
+      "source": "include",
+      "target": "runs",
+      "relation": "in"
+    },
+    {
+      "source": "include",
+      "target": "Advantages",
+      "relation": "ability"
+    },
+    {
+      "source": "include",
+      "target": "market",
+      "relation": "to"
+    },
+    {
+      "source": "include",
+      "target": "costs",
+      "relation": "to"
+    },
+    {
+      "source": "benefit",
+      "target": "flexibility",
+      "relation": "from"
+    },
+    {
+      "source": "flexibility",
+      "target": "makes",
+      "relation": "risk.[63"
+    },
+    {
+      "source": "VHDL",
+      "target": "description",
+      "relation": "in"
+    },
+    {
+      "source": "similar",
+      "target": "ones",
+      "relation": "to"
+    },
+    {
+      "source": "FPGA",
+      "target": "implementation",
+      "relation": "on"
+    },
+    {
+      "source": "FPGA",
+      "target": "line",
+      "relation": "between"
+    },
+    {
+      "source": "FPGA",
+      "target": "mapped",
+      "relation": "into"
+    },
+    {
+      "source": "FPGA",
+      "target": "performance",
+      "relation": "of"
+    },
+    {
+      "source": "FPGA",
+      "target": "depending",
+      "relation": "on"
+    },
+    {
+      "source": "FPGA",
+      "target": "includes",
+      "relation": "in"
+    },
+    {
+      "source": "FPGA",
+      "target": "inside",
+      "relation": "of"
+    },
+    {
+      "source": "FPGA",
+      "target": "parts",
+      "relation": "of"
+    },
+    {
+      "source": "FPGA",
+      "target": "connecting",
+      "relation": "to"
+    },
+    {
+      "source": "FPGA",
+      "target": "behavior",
+      "relation": "of"
+    },
+    {
+      "source": "FPGA",
+      "target": "transferred",
+      "relation": "to"
+    },
+    {
+      "source": "FPGA",
+      "target": "laid",
+      "relation": "in"
+    },
+    {
+      "source": "FPGA",
+      "target": "computation",
+      "relation": "between"
+    },
+    {
+      "source": "FPGA",
+      "target": "loads",
+      "relation": "it"
+    },
+    {
+      "source": "act",
+      "target": "gates",
+      "relation": "as"
+    },
+    {
+      "source": "gates",
+      "target": "interconnects",
+      "relation": "between"
+    },
+    {
+      "source": "gates",
+      "target": "number",
+      "relation": "of"
+    },
+    {
+      "source": "which",
+      "target": "be",
+      "relation": "flop"
+    },
+    {
+      "source": "which",
+      "target": "featured",
+      "relation": "window"
+    },
+    {
+      "source": "which",
+      "target": "carries",
+      "relation": "value"
+    },
+    {
+      "source": "which",
+      "target": "includes",
+      "relation": "MPCore"
+    },
+    {
+      "source": "which",
+      "target": "uses",
+      "relation": "processor"
+    },
+    {
+      "source": "which",
+      "target": "point",
+      "relation": "at"
+    },
+    {
+      "source": "which",
+      "target": "enables",
+      "relation": "engineer"
+    },
+    {
+      "source": "which",
+      "target": "been",
+      "relation": "reserve"
+    },
+    {
+      "source": "which",
+      "target": "versions",
+      "relation": "of"
+    },
+    {
+      "source": "performed",
+      "target": "software",
+      "relation": "in"
+    },
+    {
+      "source": "software",
+      "target": "Windows",
+      "relation": "for"
+    },
+    {
+      "source": "have",
+      "target": "capability",
+      "relation": "due"
+    },
+    {
+      "source": "have",
+      "target": "addition",
+      "relation": "in"
+    },
+    {
+      "source": "have",
+      "target": "channels",
+      "relation": "width"
+    },
+    {
+      "source": "have",
+      "target": "they",
+      "relation": "performance"
+    },
+    {
+      "source": "have",
+      "target": "that",
+      "relation": "signature"
+    },
+    {
+      "source": "have",
+      "target": "processing",
+      "relation": "due"
+    },
+    {
+      "source": "role",
+      "target": "development",
+      "relation": "in"
+    },
+    {
+      "source": "role",
+      "target": "communications",
+      "relation": "in"
+    },
+    {
+      "source": "development",
+      "target": "phase",
+      "relation": "of"
+    },
+    {
+      "source": "development",
+      "target": "ASICs",
+      "relation": "of"
+    },
+    {
+      "source": "development",
+      "target": "solutions",
+      "relation": "of"
+    },
+    {
+      "source": "capability",
+      "target": "re",
+      "relation": "of"
+    },
+    {
+      "source": "capability",
+      "target": "-",
+      "relation": "of"
+    },
+    {
+      "source": "capability",
+      "target": "configuration",
+      "relation": "of"
+    },
+    {
+      "source": "start",
+      "target": "hardware",
+      "relation": "with"
+    },
+    {
+      "source": "hardware",
+      "target": "known",
+      "relation": "as"
+    },
+    {
+      "source": "hardware",
+      "target": "reserve",
+      "relation": "of"
+    },
+    {
+      "source": "enable",
+      "target": "phase",
+      "relation": "at"
+    },
+    {
+      "source": "ASICs",
+      "target": "compared",
+      "relation": "to"
+    },
+    {
+      "source": "ASICs",
+      "target": "security",
+      "relation": "concern"
+    },
+    {
+      "source": "sprouted",
+      "target": "memory",
+      "relation": "from"
+    },
+    {
+      "source": "memory",
+      "target": "load",
+      "relation": "content"
+    },
+    {
+      "source": "memory",
+      "target": "loads",
+      "relation": "from"
+    },
+    {
+      "source": "memory",
+      "target": "stored",
+      "relation": "in"
+    },
+    {
+      "source": "memory",
+      "target": "store",
+      "relation": "in"
+    },
+    {
+      "source": "memory",
+      "target": "table",
+      "relation": "for"
+    },
+    {
+      "source": "memory",
+      "target": "provides",
+      "relation": "event"
+    },
+    {
+      "source": "PROMs",
+      "target": "had",
+      "relation": "option"
+    },
+    {
+      "source": "had",
+      "target": "XC2064",
+      "relation": "block"
+    },
+    {
+      "source": "had",
+      "target": "tables",
+      "relation": "with"
+    },
+    {
+      "source": "Altera",
+      "target": "represented",
+      "relation": "percent"
+    },
+    {
+      "source": "Altera",
+      "target": "were",
+      "relation": "market"
+    },
+    {
+      "source": "Altera",
+      "target": "became",
+      "relation": "company"
+    },
+    {
+      "source": "Altera",
+      "target": "offer",
+      "relation": "encryption"
+    },
+    {
+      "source": "Altera",
+      "target": "introduced",
+      "relation": "Manager"
+    },
+    {
+      "source": "1983",
+      "target": "founded",
+      "relation": "in"
+    },
+    {
+      "source": "1984",
+      "target": "delivered",
+      "relation": "in"
+    },
+    {
+      "source": "delivered",
+      "target": "skew",
+      "relation": "with"
+    },
+    {
+      "source": "featured",
+      "target": "package",
+      "relation": "in"
+    },
+    {
+      "source": "package",
+      "target": "using",
+      "relation": "in"
+    },
+    {
+      "source": "users",
+      "target": "shine",
+      "relation": "lamp"
+    },
+    {
+      "source": "shine",
+      "target": "die",
+      "relation": "on"
+    },
+    {
+      "source": "that",
+      "target": "held",
+      "relation": "device"
+    },
+    {
+      "source": "that",
+      "target": "implement",
+      "relation": "gate"
+    },
+    {
+      "source": "that",
+      "target": "operate",
+      "relation": "engine"
+    },
+    {
+      "source": "that",
+      "target": "reconfigure",
+      "relation": "themselves"
+    },
+    {
+      "source": "that",
+      "target": "requires",
+      "relation": "signal"
+    },
+    {
+      "source": "that",
+      "target": "carries",
+      "relation": "interconnect.[30][31"
+    },
+    {
+      "source": "that",
+      "target": "controls",
+      "relation": "routing"
+    },
+    {
+      "source": "that",
+      "target": "uses",
+      "relation": "logic"
+    },
+    {
+      "source": "that",
+      "target": "claims",
+      "relation": "saving"
+    },
+    {
+      "source": "that",
+      "target": "fulfill",
+      "relation": "demand"
+    },
+    {
+      "source": "that",
+      "target": "store",
+      "relation": "configuration"
+    },
+    {
+      "source": "that",
+      "target": "rendered",
+      "relation": "encryption"
+    },
+    {
+      "source": "Xilinx",
+      "target": "produced",
+      "relation": "xc2064.[5"
+    },
+    {
+      "source": "Xilinx",
+      "target": "provide",
+      "relation": "designs.[38][39"
+    },
+    {
+      "source": "Xilinx",
+      "target": "produce",
+      "relation": "revision"
+    },
+    {
+      "source": "produced",
+      "target": "1985[3",
+      "relation": "in"
+    },
+    {
+      "source": "produced",
+      "target": "]",
+      "relation": "in"
+    },
+    {
+      "source": "]",
+      "target": "seeing",
+      "relation": "as"
+    },
+    {
+      "source": "]",
+      "target": "broadened",
+      "relation": "as"
+    },
+    {
+      "source": "beginnings",
+      "target": "technology",
+      "relation": "of"
+    },
+    {
+      "source": "tables",
+      "target": "terms",
+      "relation": "of"
+    },
+    {
+      "source": "1987",
+      "target": "funded",
+      "relation": "in"
+    },
+    {
+      "source": "1992.[3",
+      "target": "issued",
+      "relation": "in"
+    },
+    {
+      "source": "funded",
+      "target": "Center",
+      "relation": "experiment"
+    },
+    {
+      "source": "related",
+      "target": "system",
+      "relation": "to"
+    },
+    {
+      "source": "system",
+      "target": "operate",
+      "relation": "as"
+    },
+    {
+      "source": "system",
+      "target": "chip",
+      "relation": "on"
+    },
+    {
+      "source": "1985",
+      "target": "grew",
+      "relation": "from"
+    },
+    {
+      "source": "1993",
+      "target": "serving",
+      "relation": "by"
+    },
+    {
+      "source": "Actel",
+      "target": "serving",
+      "relation": "percent"
+    },
+    {
+      "source": "Microsemi",
+      "target": "vendors",
+      "relation": "as"
+    },
+    {
+      "source": "grew",
+      "target": "mid-1990s",
+      "relation": "to"
+    },
+    {
+      "source": "portion",
+      "target": "share",
+      "relation": "of"
+    },
+    {
+      "source": "portion",
+      "target": "shipping",
+      "relation": "of"
+    },
+    {
+      "source": "portion",
+      "target": "design[18",
+      "relation": "of"
+    },
+    {
+      "source": "portion",
+      "target": "device",
+      "relation": "of"
+    },
+    {
+      "source": "percent",
+      "target": "market.[6",
+      "relation": "of"
+    },
+    {
+      "source": "percent",
+      "target": "market.[9",
+      "relation": "of"
+    },
+    {
+      "source": "percent",
+      "target": "market",
+      "relation": "of"
+    },
+    {
+      "source": "1990s",
+      "target": "were",
+      "relation": "period"
+    },
+    {
+      "source": "1990s",
+      "target": "introduction",
+      "relation": "in"
+    },
+    {
+      "source": "were",
+      "target": "sophistication",
+      "relation": "in"
+    },
+    {
+      "source": "period",
+      "target": "growth",
+      "relation": "of"
+    },
+    {
+      "source": "found",
+      "target": "end",
+      "relation": "by"
+    },
+    {
+      "source": "found",
+      "target": "Zynq-7000",
+      "relation": "in"
+    },
+    {
+      "source": "end",
+      "target": "decade",
+      "relation": "of"
+    },
+    {
+      "source": "way",
+      "target": "consumer",
+      "relation": "into"
+    },
+    {
+      "source": "way",
+      "target": "built",
+      "relation": "in"
+    },
+    {
+      "source": "2013",
+      "target": "represented",
+      "relation": "by"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Companies",
+      "relation": "like"
+    },
+    {
+      "source": "2014",
+      "target": "accelerate",
+      "relation": "in"
+    },
+    {
+      "source": "2018",
+      "target": "began",
+      "relation": "in"
+    },
+    {
+      "source": "systems",
+      "target": "centers",
+      "relation": "like"
+    },
+    {
+      "source": "systems",
+      "target": "design",
+      "relation": "of"
+    },
+    {
+      "source": "systems",
+      "target": "marketed",
+      "relation": "as"
+    },
+    {
+      "source": "systems",
+      "target": "chips",
+      "relation": "on"
+    },
+    {
+      "source": "systems",
+      "target": "play",
+      "relation": "in"
+    },
+    {
+      "source": "systems",
+      "target": "System",
+      "relation": "like"
+    },
+    {
+      "source": "started",
+      "target": "performance",
+      "relation": "due"
+    },
+    {
+      "source": "performance",
+      "target": "advantage",
+      "relation": "per"
+    },
+    {
+      "source": "advantage",
+      "target": "delays",
+      "relation": "of"
+    },
+    {
+      "source": "began",
+      "target": "competitors",
+      "relation": "as"
+    },
+    {
+      "source": "began",
+      "target": "introduction",
+      "relation": "with"
+    },
+    {
+      "source": "workloads",
+      "target": "platform.[11",
+      "relation": "for"
+    },
+    {
+      "source": "timelines",
+      "target": "indicate",
+      "relation": "progress"
+    },
+    {
+      "source": "progress",
+      "target": "aspects",
+      "relation": "in"
+    },
+    {
+      "source": "aspects",
+      "target": "design",
+      "relation": "of"
+    },
+    {
+      "source": "design",
+      "target": "implementation",
+      "relation": "for"
+    },
+    {
+      "source": "design",
+      "target": "relative",
+      "relation": "to"
+    },
+    {
+      "source": "design",
+      "target": "determined",
+      "relation": "from"
+    },
+    {
+      "source": "design",
+      "target": "language",
+      "relation": "in"
+    },
+    {
+      "source": "design",
+      "target": "visualization",
+      "relation": "of"
+    },
+    {
+      "source": "design",
+      "target": "requires",
+      "relation": "instant"
+    },
+    {
+      "source": "implementation",
+      "target": "practical",
+      "relation": "for"
+    },
+    {
+      "source": "implementation",
+      "target": "them",
+      "relation": "on"
+    },
+    {
+      "source": "ASIC",
+      "target": "perform",
+      "relation": "that"
+    },
+    {
+      "source": "ASIC",
+      "target": "manufacture",
+      "relation": "as"
+    },
+    {
+      "source": "perform",
+      "target": "solutions",
+      "relation": "task"
+    },
+    {
+      "source": "perform",
+      "target": "processing",
+      "relation": "with"
+    },
+    {
+      "source": "perform",
+      "target": "designs",
+      "relation": "in"
+    },
+    {
+      "source": "perform",
+      "target": "CPLDs",
+      "relation": "function"
+    },
+    {
+      "source": "update",
+      "target": "shipping",
+      "relation": "after"
+    },
+    {
+      "source": "ability",
+      "target": "offer",
+      "relation": "advantage"
+    },
+    {
+      "source": "offer",
+      "target": "many",
+      "relation": "for"
+    },
+    {
+      "source": "offer",
+      "target": "applications.[1",
+      "relation": "for"
+    },
+    {
+      "source": "offer",
+      "target": "vendors",
+      "relation": "spectrum"
+    },
+    {
+      "source": "offer",
+      "target": "example",
+      "relation": "for"
+    },
+    {
+      "source": "designs",
+      "target": "employ",
+      "relation": "rate"
+    },
+    {
+      "source": "designs",
+      "target": "vary",
+      "relation": "among"
+    },
+    {
+      "source": "designs",
+      "target": "amount",
+      "relation": "with"
+    },
+    {
+      "source": "designs",
+      "target": "experiments",
+      "relation": "with"
+    },
+    {
+      "source": "designs",
+      "target": "use",
+      "relation": "clock"
+    },
+    {
+      "source": "designs",
+      "target": "need",
+      "relation": "area"
+    },
+    {
+      "source": "designs",
+      "target": "range",
+      "relation": "of"
+    },
+    {
+      "source": "it",
+      "target": "becomes",
+      "relation": "challenge"
+    },
+    {
+      "source": "it",
+      "target": "parts",
+      "relation": "of"
+    },
+    {
+      "source": "it",
+      "target": "acquire",
+      "relation": "Xilinx[43"
+    },
+    {
+      "source": "timing",
+      "target": "data",
+      "relation": "of"
+    },
+    {
+      "source": "verify",
+      "target": "time",
+      "relation": "within"
+    },
+    {
+      "source": "time",
+      "target": "controlled",
+      "relation": "at"
+    },
+    {
+      "source": "time",
+      "target": "Ultrascale",
+      "relation": "at"
+    },
+    {
+      "source": "planning",
+      "target": "helps",
+      "relation": "allocation"
+    },
+    {
+      "source": "addition",
+      "target": "functions",
+      "relation": "to"
+    },
+    {
+      "source": "addition",
+      "target": "provides",
+      "relation": "in"
+    },
+    {
+      "source": "functions",
+      "target": "stored",
+      "relation": "as"
+    },
+    {
+      "source": "functions",
+      "target": "LUTs",
+      "relation": "into"
+    },
+    {
+      "source": "functions",
+      "target": "libraries",
+      "relation": "of"
+    },
+    {
+      "source": "functions",
+      "target": "adders",
+      "relation": "as"
+    },
+    {
+      "source": "rate",
+      "target": "pin",
+      "relation": "on"
+    },
+    {
+      "source": "engineer",
+      "target": "set",
+      "relation": "rate"
+    },
+    {
+      "source": "set",
+      "target": "pins",
+      "relation": "on"
+    },
+    {
+      "source": "set",
+      "target": "channels",
+      "relation": "on"
+    },
+    {
+      "source": "pins",
+      "target": "comparators",
+      "relation": "on"
+    },
+    {
+      "source": "channels",
+      "target": "connected",
+      "relation": "to"
+    },
+    {
+      "source": "channels",
+      "target": "number",
+      "relation": "of"
+    },
+    {
+      "source": "channels",
+      "target": "increase",
+      "relation": "cost"
+    },
+    {
+      "source": "loops",
+      "target": "oscillators",
+      "relation": "with"
+    },
+    {
+      "source": "loops",
+      "target": "deserializer",
+      "relation": "for"
+    },
+    {
+      "source": "analog",
+      "target": "digital",
+      "relation": "to"
+    },
+    {
+      "source": "chip",
+      "target": "providing",
+      "relation": "on"
+    },
+    {
+      "source": "chip",
+      "target": "pay",
+      "relation": "for"
+    },
+    {
+      "source": "carries",
+      "target": "fabric",
+      "relation": "on"
+    },
+    {
+      "source": "fabric",
+      "target": "values",
+      "relation": "on"
+    },
+    {
+      "source": "fabric",
+      "target": "exist",
+      "relation": "alongside"
+    },
+    {
+      "source": "fabric",
+      "target": "more",
+      "relation": "of"
+    },
+    {
+      "source": "fabric",
+      "target": "different",
+      "relation": "between"
+    },
+    {
+      "source": "values",
+      "target": "run",
+      "relation": "with"
+    },
+    {
+      "source": "one",
+      "target": "use",
+      "relation": "FPGA"
+    },
+    {
+      "source": "one",
+      "target": "size",
+      "relation": "of"
+    },
+    {
+      "source": "consists",
+      "target": "cells",
+      "relation": "of"
+    },
+    {
+      "source": "consists",
+      "target": "LUT",
+      "relation": "of"
+    },
+    {
+      "source": "depending",
+      "target": "vendor",
+      "relation": "on"
+    },
+    {
+      "source": "depending",
+      "target": "programming",
+      "relation": "on"
+    },
+    {
+      "source": "depending",
+      "target": "application",
+      "relation": "on"
+    },
+    {
+      "source": "number",
+      "target": "signals",
+      "relation": "of"
+    },
+    {
+      "source": "number",
+      "target": "terms",
+      "relation": "of"
+    },
+    {
+      "source": "number",
+      "target": "registers",
+      "relation": "of"
+    },
+    {
+      "source": "fit",
+      "target": "height",
+      "relation": "into"
+    },
+    {
+      "source": "fit",
+      "target": "terms",
+      "relation": "in"
+    },
+    {
+      "source": "fit",
+      "target": "architecture",
+      "relation": "to"
+    },
+    {
+      "source": "height",
+      "target": "row",
+      "relation": "of"
+    },
+    {
+      "source": "width",
+      "target": "column",
+      "relation": "of"
+    },
+    {
+      "source": "mapped",
+      "target": "resources",
+      "relation": "with"
+    },
+    {
+      "source": "mapped",
+      "target": "engine",
+      "relation": "design"
+    },
+    {
+      "source": "mapped",
+      "target": "netlist",
+      "relation": "to"
+    },
+    {
+      "source": "resources",
+      "target": "amount",
+      "relation": "of"
+    },
+    {
+      "source": "resources",
+      "target": "affordable",
+      "relation": "than"
+    },
+    {
+      "source": "resources",
+      "target": "terms",
+      "relation": "of"
+    },
+    {
+      "source": "resources",
+      "target": "CPLDs",
+      "relation": "than"
+    },
+    {
+      "source": "amount",
+      "target": "logic",
+      "relation": "of"
+    },
+    {
+      "source": "logic",
+      "target": "free",
+      "relation": "for"
+    },
+    {
+      "source": "logic",
+      "target": "implemented",
+      "relation": "within"
+    },
+    {
+      "source": "logic",
+      "target": "Most",
+      "relation": "of"
+    },
+    {
+      "source": "logic",
+      "target": "boards",
+      "relation": "for"
+    },
+    {
+      "source": "requires",
+      "target": "example",
+      "relation": "for"
+    },
+    {
+      "source": "requires",
+      "target": "switch",
+      "relation": "routing"
+    },
+    {
+      "source": "example",
+      "target": "load",
+      "relation": "for"
+    },
+    {
+      "source": "increase",
+      "target": "use",
+      "relation": "in"
+    },
+    {
+      "source": "terms",
+      "target": "nature",
+      "relation": "in"
+    },
+    {
+      "source": "terms",
+      "target": "flexible",
+      "relation": "in"
+    },
+    {
+      "source": "terms",
+      "target": "range",
+      "relation": "of"
+    },
+    {
+      "source": "terms",
+      "target": "larger",
+      "relation": "in"
+    },
+    {
+      "source": "estimates",
+      "target": "those",
+      "relation": "as"
+    },
+    {
+      "source": "derived",
+      "target": "rule",
+      "relation": "from"
+    },
+    {
+      "source": "LUT",
+      "target": "combined",
+      "relation": "into"
+    },
+    {
+      "source": "split",
+      "target": "LUTs",
+      "relation": "into"
+    },
+    {
+      "source": "LUTs",
+      "target": "out",
+      "relation": "of"
+    },
+    {
+      "source": "combined",
+      "target": "mode",
+      "relation": "in"
+    },
+    {
+      "source": "combined",
+      "target": "multiplexer",
+      "relation": "through"
+    },
+    {
+      "source": "mode",
+      "target": "fed",
+      "relation": "in"
+    },
+    {
+      "source": "mode",
+      "target": "selection",
+      "relation": "of"
+    },
+    {
+      "source": "fed",
+      "target": "adder",
+      "relation": "to"
+    },
+    {
+      "source": "mux",
+      "target": "programming",
+      "relation": "of"
+    },
+    {
+      "source": "stored",
+      "target": "practice",
+      "relation": "in"
+    },
+    {
+      "source": "stored",
+      "target": "order",
+      "relation": "in"
+    },
+    {
+      "source": "parts",
+      "target": "several",
+      "relation": "of"
+    },
+    {
+      "source": "parts",
+      "target": "lines",
+      "relation": "in"
+    },
+    {
+      "source": "parts",
+      "target": "algorithm",
+      "relation": "of"
+    },
+    {
+      "source": "expand",
+      "target": "capabilities",
+      "relation": "upon"
+    },
+    {
+      "source": "fixed",
+      "target": "silicon",
+      "relation": "in"
+    },
+    {
+      "source": "silicon",
+      "target": "piece",
+      "relation": "of"
+    },
+    {
+      "source": "silicon",
+      "target": "manufactured",
+      "relation": "in"
+    },
+    {
+      "source": "embedded",
+      "target": "fabric,[28",
+      "relation": "within"
+    },
+    {
+      "source": "building",
+      "target": "primitives",
+      "relation": "from"
+    },
+    {
+      "source": "Examples",
+      "target": "these",
+      "relation": "of"
+    },
+    {
+      "source": "Examples",
+      "target": "technologies",
+      "relation": "of"
+    },
+    {
+      "source": "contain",
+      "target": "transceivers",
+      "relation": "circuitry"
+    },
+    {
+      "source": "contain",
+      "target": "CPLDs",
+      "relation": "memory"
+    },
+    {
+      "source": "cores",
+      "target": "cores",
+      "relation": "as"
+    },
+    {
+      "source": "exist",
+      "target": "markets",
+      "relation": "in"
+    },
+    {
+      "source": "exist",
+      "target": "promotion",
+      "relation": "despite"
+    },
+    {
+      "source": "out",
+      "target": "transistors",
+      "relation": "of"
+    },
+    {
+      "source": "they",
+      "target": "controlled",
+      "relation": "percent"
+    },
+    {
+      "source": "along",
+      "target": "serializers",
+      "relation": "with"
+    },
+    {
+      "source": "serializers",
+      "target": "implemented",
+      "relation": "alongside"
+    },
+    {
+      "source": "functionality",
+      "target": "coding",
+      "relation": "as"
+    },
+    {
+      "source": "functionality",
+      "target": "counterparts",
+      "relation": "than"
+    },
+    {
+      "source": "implemented",
+      "target": "tree",
+      "relation": "as"
+    },
+    {
+      "source": "MicroBlaze",
+      "target": "microprocessor",
+      "relation": "as"
+    },
+    {
+      "source": "use",
+      "target": "processor",
+      "relation": "of"
+    },
+    {
+      "source": "use",
+      "target": "frequency",
+      "relation": "with"
+    },
+    {
+      "source": "use",
+      "target": "trend",
+      "relation": "in"
+    },
+    {
+      "source": "use",
+      "target": "accelerators",
+      "relation": "as"
+    },
+    {
+      "source": "use",
+      "target": "demands",
+      "relation": "of"
+    },
+    {
+      "source": "use",
+      "target": "design.[71",
+      "relation": "in"
+    },
+    {
+      "source": "examples",
+      "target": "processors",
+      "relation": "of"
+    },
+    {
+      "source": "led",
+      "target": "idea",
+      "relation": "to"
+    },
+    {
+      "source": "idea",
+      "target": "computing",
+      "relation": "of"
+    },
+    {
+      "source": "suit",
+      "target": "hand",
+      "relation": "at"
+    },
+    {
+      "source": "hand",
+      "target": "drawing",
+      "relation": "by"
+    },
+    {
+      "source": "hand",
+      "target": "dominated",
+      "relation": "on"
+    },
+    {
+      "source": "microprocessors",
+      "target": "S5000",
+      "relation": "as"
+    },
+    {
+      "source": "microprocessors",
+      "target": "adopt",
+      "relation": "approach"
+    },
+    {
+      "source": "2012",
+      "target": "taken",
+      "relation": "in"
+    },
+    {
+      "source": "RAM",
+      "target": "kB",
+      "relation": "of"
+    },
+    {
+      "source": "technologies",
+      "target": "created",
+      "relation": "with"
+    },
+    {
+      "source": "uses",
+      "target": "combination",
+      "relation": "in"
+    },
+    {
+      "source": "combination",
+      "target": "architecture",
+      "relation": "with"
+    },
+    {
+      "source": "architecture",
+      "target": "allows",
+      "relation": "development"
+    },
+    {
+      "source": "needed",
+      "target": "kB",
+      "relation": "with"
+    },
+    {
+      "source": "kB",
+      "target": "flash",
+      "relation": "of"
+    },
+    {
+      "source": "peripherals",
+      "target": "converters",
+      "relation": "as"
+    },
+    {
+      "source": "converters",
+      "target": "fabric.[citation",
+      "relation": "in"
+    },
+    {
+      "source": "networks",
+      "target": "clock",
+      "relation": "for"
+    },
+    {
+      "source": "each",
+      "target": "forming",
+      "relation": "domain"
+    },
+    {
+      "source": "recovered",
+      "target": "stream",
+      "relation": "from"
+    },
+    {
+      "source": "working",
+      "target": "clocks",
+      "relation": "with"
+    },
+    {
+      "source": "aiding",
+      "target": "construction",
+      "relation": "in"
+    },
+    {
+      "source": "construction",
+      "target": "developed",
+      "relation": "for"
+    },
+    {
+      "source": "Tabula",
+      "target": "vendors",
+      "relation": "as"
+    },
+    {
+      "source": "Tabula",
+      "target": "announced",
+      "relation": "technology"
+    },
+    {
+      "source": "Tabula",
+      "target": "shut",
+      "relation": "down.[41"
+    },
+    {
+      "source": "vendors",
+      "target": "available",
+      "relation": "from"
+    },
+    {
+      "source": "said",
+      "target": "introduction",
+      "relation": "follow"
+    },
+    {
+      "source": "introduction",
+      "target": "multipliers",
+      "relation": "of"
+    },
+    {
+      "source": "introduction",
+      "target": "architectures",
+      "relation": "into"
+    },
+    {
+      "source": "approach",
+      "target": "stacks",
+      "relation": "three"
+    },
+    {
+      "source": "approach",
+      "target": "rely",
+      "relation": "on"
+    },
+    {
+      "source": "approach",
+      "target": "alternatives",
+      "relation": "to"
+    },
+    {
+      "source": "dies",
+      "target": "side",
+      "relation": "by"
+    },
+    {
+      "source": "dies",
+      "target": "interposer",
+      "relation": "on"
+    },
+    {
+      "source": "user",
+      "target": "provides",
+      "relation": "design"
+    },
+    {
+      "source": "user",
+      "target": "validate",
+      "relation": "result"
+    },
+    {
+      "source": "work",
+      "target": "structures",
+      "relation": "with"
+    },
+    {
+      "source": "allow",
+      "target": "visualization",
+      "relation": "for"
+    },
+    {
+      "source": "transferred",
+      "target": "interface",
+      "relation": "via"
+    },
+    {
+      "source": "device",
+      "target": "EEPROM",
+      "relation": "as"
+    },
+    {
+      "source": "Verilog",
+      "target": "has",
+      "relation": "syntax"
+    },
+    {
+      "source": "has",
+      "target": "source",
+      "relation": "unlike"
+    },
+    {
+      "source": "has",
+      "target": "CPLD",
+      "relation": "structure"
+    },
+    {
+      "source": "third",
+      "target": "run",
+      "relation": "at"
+    },
+    {
+      "source": "OpenCores",
+      "target": "communities",
+      "relation": "as"
+    },
+    {
+      "source": "available",
+      "target": "communities",
+      "relation": "from"
+    },
+    {
+      "source": "released",
+      "target": "licenses",
+      "relation": "under"
+    },
+    {
+      "source": "licenses",
+      "target": "GPL",
+      "relation": "as"
+    },
+    {
+      "source": "simulate",
+      "target": "flow",
+      "relation": "in"
+    },
+    {
+      "source": "simulate",
+      "target": "developer",
+      "relation": "design"
+    },
+    {
+      "source": "simulate",
+      "target": "stages",
+      "relation": "at"
+    },
+    {
+      "source": "simulate",
+      "target": "process",
+      "relation": "throughout"
+    },
+    {
+      "source": "description",
+      "target": "translated",
+      "relation": "to"
+    },
+    {
+      "source": "netlist",
+      "target": "annotated",
+      "relation": "onto"
+    },
+    {
+      "source": "proceeded",
+      "target": "errors",
+      "relation": "without"
+    },
+    {
+      "source": "point",
+      "target": "took",
+      "relation": "to"
+    },
+    {
+      "source": "take",
+      "target": "efficiencies",
+      "relation": "of"
+    },
+    {
+      "source": "take",
+      "target": "Vendors",
+      "relation": "road"
+    },
+    {
+      "source": "take",
+      "target": "prototyping",
+      "relation": "via"
+    },
+    {
+      "source": "provide",
+      "target": "JTRS",
+      "relation": "in"
+    },
+    {
+      "source": "programmers",
+      "target": "develop",
+      "relation": "code"
+    },
+    {
+      "source": "code",
+      "target": "language.[35",
+      "relation": "in"
+    },
+    {
+      "source": "see",
+      "target": "information",
+      "relation": "for"
+    },
+    {
+      "source": "see",
+      "target": "HDL",
+      "relation": "to"
+    },
+    {
+      "source": "SRAM",
+      "target": "load",
+      "relation": "into"
+    },
+    {
+      "source": "based",
+      "target": "CMOS",
+      "relation": "on"
+    },
+    {
+      "source": "2016",
+      "target": "rivals",
+      "relation": "in"
+    },
+    {
+      "source": "AMD",
+      "target": "part",
+      "relation": "of"
+    },
+    {
+      "source": "rivals",
+      "target": "industry",
+      "relation": "Xilinx"
+    },
+    {
+      "source": "part",
+      "target": "computation",
+      "relation": "of"
+    },
+    {
+      "source": "part",
+      "target": "L3Harris",
+      "relation": "of"
+    },
+    {
+      "source": "part",
+      "target": "manufactured",
+      "relation": "as"
+    },
+    {
+      "source": "part",
+      "target": "ProAsic",
+      "relation": "of"
+    },
+    {
+      "source": "market",
+      "target": "make",
+      "relation": "into"
+    },
+    {
+      "source": "market",
+      "target": "Ultrascale",
+      "relation": "on"
+    },
+    {
+      "source": "announced",
+      "target": "March",
+      "relation": "in"
+    },
+    {
+      "source": "announced",
+      "target": "June",
+      "relation": "on"
+    },
+    {
+      "source": "announced",
+      "target": "October",
+      "relation": "on"
+    },
+    {
+      "source": "March",
+      "target": "shut",
+      "relation": "on"
+    },
+    {
+      "source": "savings",
+      "target": "applications.[40",
+      "relation": "for"
+    },
+    {
+      "source": "acquire",
+      "target": "billion",
+      "relation": "for"
+    },
+    {
+      "source": "billion",
+      "target": "valued",
+      "relation": "at"
+    },
+    {
+      "source": "completed",
+      "target": "December",
+      "relation": "on"
+    },
+    {
+      "source": "February",
+      "target": "valued",
+      "relation": "in"
+    },
+    {
+      "source": "February",
+      "target": "became",
+      "relation": "in"
+    },
+    {
+      "source": "became",
+      "target": "Intel.[45",
+      "relation": "with"
+    },
+    {
+      "source": "evolution",
+      "target": "motivated",
+      "relation": "increase"
+    },
+    {
+      "source": "solutions",
+      "target": "spectrum",
+      "relation": "of"
+    },
+    {
+      "source": "optimized",
+      "target": "tasks",
+      "relation": "for"
+    },
+    {
+      "source": "tasks",
+      "target": "segmentation",
+      "relation": "as"
+    },
+    {
+      "source": "associated",
+      "target": "imaging",
+      "relation": "with"
+    },
+    {
+      "source": "2014.[56",
+      "target": "adopting",
+      "relation": "in"
+    },
+    {
+      "source": "2018[update",
+      "target": "As",
+      "relation": "of"
+    },
+    {
+      "source": "algorithm",
+      "target": "adopting",
+      "relation": "for"
+    },
+    {
+      "source": "As",
+      "target": "2017[update",
+      "relation": "of"
+    },
+    {
+      "source": "accelerators",
+      "target": "Project",
+      "relation": "include"
+    },
+    {
+      "source": "companies",
+      "target": "pay",
+      "relation": "that"
+    },
+    {
+      "source": "companies",
+      "target": "Corporation",
+      "relation": "as"
+    },
+    {
+      "source": "broadened",
+      "target": "dynamics",
+      "relation": "range"
+    },
+    {
+      "source": "made",
+      "target": "quantities",
+      "relation": "in"
+    },
+    {
+      "source": "increasing",
+      "target": "extent",
+      "relation": "to"
+    },
+    {
+      "source": "communications",
+      "target": "ideal",
+      "relation": "for"
+    },
+    {
+      "source": "Thales",
+      "target": "leverages",
+      "relation": "technology"
+    },
+    {
+      "source": "demands",
+      "target": "reconfiguration",
+      "relation": "include"
+    },
+    {
+      "source": "Technologies",
+      "target": "incorporates",
+      "relation": "fpga"
+    },
+    {
+      "source": "makes",
+      "target": "fabrication",
+      "relation": "during"
+    },
+    {
+      "source": "loads",
+      "target": "on",
+      "relation": "on"
+    },
+    {
+      "source": "designers",
+      "target": "encryption",
+      "relation": "as"
+    },
+    {
+      "source": "protection",
+      "target": "applications.[clarification",
+      "relation": "for"
+    },
+    {
+      "source": "protection",
+      "target": "levels",
+      "relation": "of"
+    },
+    {
+      "source": "protection",
+      "target": "attacks.[65",
+      "relation": "against"
+    },
+    {
+      "source": "Customers",
+      "target": "wanting",
+      "relation": "guarantee"
+    },
+    {
+      "source": "guarantee",
+      "target": "resistance",
+      "relation": "of"
+    },
+    {
+      "source": "levels",
+      "target": "vulnerable",
+      "relation": "on"
+    },
+    {
+      "source": "vulnerable",
+      "target": "intent",
+      "relation": "to"
+    },
+    {
+      "source": "2020",
+      "target": "discovered",
+      "relation": "in"
+    },
+    {
+      "source": "2006",
+      "target": "study",
+      "relation": "from"
+    },
+    {
+      "source": "speed",
+      "target": "implementations.[67",
+      "relation": "of"
+    },
+    {
+      "source": "case",
+      "target": "designs.[68",
+      "relation": "with"
+    },
+    {
+      "source": "portions",
+      "target": "continue",
+      "relation": "running.[69][70"
+    },
+    {
+      "source": "consisting",
+      "target": "arrays",
+      "relation": "of"
+    },
+    {
+      "source": "sequence",
+      "target": "board",
+      "relation": "of"
+    }
+  ]
+}

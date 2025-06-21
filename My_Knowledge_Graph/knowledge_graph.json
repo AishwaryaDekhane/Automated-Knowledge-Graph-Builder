@@ -1,0 +1,1250 @@
+{
+  "nodes": [
+    {
+      "id": "Altera Corporation",
+      "label": "ORG"
+    },
+    {
+      "id": "San Jose",
+      "label": "GPE"
+    },
+    {
+      "id": "California",
+      "label": "GPE"
+    },
+    {
+      "id": "1983",
+      "label": "DATE"
+    },
+    {
+      "id": "Intel",
+      "label": "ORG"
+    },
+    {
+      "id": "2015",
+      "label": "DATE"
+    },
+    {
+      "id": "2024",
+      "label": "DATE"
+    },
+    {
+      "id": "Field-Programmable Gate Array",
+      "label": "ORG"
+    },
+    {
+      "id": "Corporation",
+      "label": "No label"
+    },
+    {
+      "id": "is",
+      "label": "No label"
+    },
+    {
+      "id": "manufacturer",
+      "label": "No label"
+    },
+    {
+      "id": "devices",
+      "label": "No label"
+    },
+    {
+      "id": "headquartered",
+      "label": "No label"
+    },
+    {
+      "id": "Jose",
+      "label": "No label"
+    },
+    {
+      "id": "founded",
+      "label": "No label"
+    },
+    {
+      "id": "acquired",
+      "label": "No label"
+    },
+    {
+      "id": "becoming",
+      "label": "No label"
+    },
+    {
+      "id": "company",
+      "label": "No label"
+    },
+    {
+      "id": "focused",
+      "label": "No label"
+    },
+    {
+      "id": "development",
+      "label": "No label"
+    },
+    {
+      "id": "technology",
+      "label": "No label"
+    },
+    {
+      "id": "FPGAs",
+      "label": "No label"
+    },
+    {
+      "id": "Rodney Smith",
+      "label": "PERSON"
+    },
+    {
+      "id": "Robert Hartmann",
+      "label": "PERSON"
+    },
+    {
+      "id": "James Sansbury",
+      "label": "PERSON"
+    },
+    {
+      "id": "Paul Newhagen",
+      "label": "PERSON"
+    },
+    {
+      "id": "500,000",
+      "label": "MONEY"
+    },
+    {
+      "id": "1988",
+      "label": "DATE"
+    },
+    {
+      "id": "Altera",
+      "label": "ORG"
+    },
+    {
+      "id": "Newhagen",
+      "label": "No label"
+    },
+    {
+      "id": "money",
+      "label": "No label"
+    },
+    {
+      "id": "name",
+      "label": "No label"
+    },
+    {
+      "id": "was",
+      "label": "No label"
+    },
+    {
+      "id": "type",
+      "label": "No label"
+    },
+    {
+      "id": "chips",
+      "label": "No label"
+    },
+    {
+      "id": "became",
+      "label": "No label"
+    },
+    {
+      "id": "offering",
+      "label": "No label"
+    },
+    {
+      "id": "December 28, 2015",
+      "label": "DATE"
+    },
+    {
+      "id": "Programmable Solutions Group",
+      "label": "ORG"
+    },
+    {
+      "id": "October 2023",
+      "label": "DATE"
+    },
+    {
+      "id": "PSG",
+      "label": "ORG"
+    },
+    {
+      "id": "the start of 2024",
+      "label": "DATE"
+    },
+    {
+      "id": "IPO",
+      "label": "ORG"
+    },
+    {
+      "id": "three",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "February 2024",
+      "label": "DATE"
+    },
+    {
+      "id": "December",
+      "label": "No label"
+    },
+    {
+      "id": "announced",
+      "label": "No label"
+    },
+    {
+      "id": "October",
+      "label": "No label"
+    },
+    {
+      "id": "spinning",
+      "label": "No label"
+    },
+    {
+      "id": "start",
+      "label": "No label"
+    },
+    {
+      "id": "seek",
+      "label": "No label"
+    },
+    {
+      "id": "years.[4][5",
+      "label": "No label"
+    },
+    {
+      "id": "February",
+      "label": "No label"
+    },
+    {
+      "id": "reestablish",
+      "label": "No label"
+    },
+    {
+      "id": "Agilex",
+      "label": "ORG"
+    },
+    {
+      "id": "Arria series,[7",
+      "label": "PERSON"
+    },
+    {
+      "id": "Cyclone series",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "MAX",
+      "label": "ORG"
+    },
+    {
+      "id": "lines",
+      "label": "No label"
+    },
+    {
+      "id": "are",
+      "label": "No label"
+    },
+    {
+      "id": "2000",
+      "label": "DATE"
+    },
+    {
+      "id": "Designpro",
+      "label": "ORG"
+    },
+    {
+      "id": "Northwest Logic",
+      "label": "ORG"
+    },
+    {
+      "id": "offer",
+      "label": "No label"
+    },
+    {
+      "id": "array",
+      "label": "No label"
+    },
+    {
+      "id": "cores",
+      "label": "No label"
+    },
+    {
+      "id": "engineers",
+      "label": "No label"
+    },
+    {
+      "id": "drop",
+      "label": "No label"
+    },
+    {
+      "id": "designs",
+      "label": "No label"
+    },
+    {
+      "id": "eliminate",
+      "label": "No label"
+    },
+    {
+      "id": "some",
+      "label": "No label"
+    },
+    {
+      "id": "tasks",
+      "label": "No label"
+    },
+    {
+      "id": "creating",
+      "label": "No label"
+    },
+    {
+      "id": "design",
+      "label": "No label"
+    },
+    {
+      "id": "scratch",
+      "label": "No label"
+    },
+    {
+      "id": "providers",
+      "label": "No label"
+    },
+    {
+      "id": "order",
+      "label": "No label"
+    },
+    {
+      "id": "move",
+      "label": "No label"
+    },
+    {
+      "id": "delivery",
+      "label": "No label"
+    },
+    {
+      "id": "system",
+      "label": "No label"
+    },
+    {
+      "id": "chip",
+      "label": "No label"
+    },
+    {
+      "id": "solutions.[8][9",
+      "label": "No label"
+    },
+    {
+      "id": "December 2012",
+      "label": "DATE"
+    },
+    {
+      "id": "first",
+      "label": "ORDINAL"
+    },
+    {
+      "id": "FDSOI",
+      "label": "ORG"
+    },
+    {
+      "id": "28nm",
+      "label": "QUANTITY"
+    },
+    {
+      "id": "Cyclone V SoC",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "ARM",
+      "label": "ORG"
+    },
+    {
+      "id": "Cortex-A9",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "SoC",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "Beginning",
+      "label": "No label"
+    },
+    {
+      "id": "shipment",
+      "label": "No label"
+    },
+    {
+      "id": "silicon",
+      "label": "No label"
+    },
+    {
+      "id": "process",
+      "label": "No label"
+    },
+    {
+      "id": "These",
+      "label": "No label"
+    },
+    {
+      "id": "which",
+      "label": "No label"
+    },
+    {
+      "id": "have",
+      "label": "No label"
+    },
+    {
+      "id": "logic",
+      "label": "No label"
+    },
+    {
+      "id": "chip.[10",
+      "label": "No label"
+    },
+    {
+      "id": "integrated",
+      "label": "No label"
+    },
+    {
+      "id": "systems",
+      "label": "No label"
+    },
+    {
+      "id": "based",
+      "label": "No label"
+    },
+    {
+      "id": "architecture",
+      "label": "No label"
+    },
+    {
+      "id": "device.[11][12",
+      "label": "No label"
+    },
+    {
+      "id": "As",
+      "label": "No label"
+    },
+    {
+      "id": "majority",
+      "label": "No label"
+    },
+    {
+      "id": "available",
+      "label": "No label"
+    },
+    {
+      "id": "variant",
+      "label": "No label"
+    },
+    {
+      "id": "FPGA",
+      "label": "No label"
+    },
+    {
+      "id": "SoCs",
+      "label": "ORG"
+    },
+    {
+      "id": "targeted",
+      "label": "No label"
+    },
+    {
+      "id": "use",
+      "label": "No label"
+    },
+    {
+      "id": "communications",
+      "label": "No label"
+    },
+    {
+      "id": "were",
+      "label": "No label"
+    },
+    {
+      "id": "variants",
+      "label": "No label"
+    },
+    {
+      "id": "power",
+      "label": "No label"
+    },
+    {
+      "id": "Arria V SoC",
+      "label": "PERSON"
+    },
+    {
+      "id": "Arria 10",
+      "label": "ORG"
+    },
+    {
+      "id": "ARM Cortex-A9",
+      "label": "FAC"
+    },
+    {
+      "id": "7 SoC",
+      "label": "PRODUCT"
+    },
+    {
+      "id": "ARM Cortex-A53",
+      "label": "FAC"
+    },
+    {
+      "id": "5",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "ARM Cortex-A76",
+      "label": "ORG"
+    },
+    {
+      "id": "family",
+      "label": "No label"
+    },
+    {
+      "id": "Previously Altera",
+      "label": "ORG"
+    },
+    {
+      "id": "Nios II",
+      "label": "ORG"
+    },
+    {
+      "id": "offers",
+      "label": "No label"
+    },
+    {
+      "id": "offered",
+      "label": "No label"
+    },
+    {
+      "id": "All",
+      "label": "No label"
+    },
+    {
+      "id": "that",
+      "label": "No label"
+    },
+    {
+      "id": "includes",
+      "label": "No label"
+    },
+    {
+      "id": "May 2013",
+      "label": "DATE"
+    },
+    {
+      "id": "OpenCL",
+      "label": "ORG"
+    },
+    {
+      "id": "made",
+      "label": "No label"
+    },
+    {
+      "id": "May",
+      "label": "No label"
+    },
+    {
+      "id": "SDK",
+      "label": "No label"
+    },
+    {
+      "id": "capabilities",
+      "label": "No label"
+    },
+    {
+      "id": "devices.[16",
+      "label": "No label"
+    },
+    {
+      "id": "SYCL",
+      "label": "ORG"
+    },
+    {
+      "id": "support",
+      "label": "No label"
+    },
+    {
+      "id": "1984",
+      "label": "DATE"
+    },
+    {
+      "id": "1994",
+      "label": "DATE"
+    },
+    {
+      "id": "PLD",
+      "label": "ORG"
+    },
+    {
+      "id": "50",
+      "label": "MONEY"
+    },
+    {
+      "id": "formed",
+      "label": "No label"
+    },
+    {
+      "id": "partnership",
+      "label": "No label"
+    },
+    {
+      "id": "business",
+      "label": "No label"
+    },
+    {
+      "id": "million.[17",
+      "label": "No label"
+    },
+    {
+      "id": "February 2013",
+      "label": "DATE"
+    },
+    {
+      "id": "14-nm",
+      "label": "QUANTITY"
+    },
+    {
+      "id": "TSMC.[18",
+      "label": "ORG"
+    },
+    {
+      "id": "node",
+      "label": "No label"
+    },
+    {
+      "id": "manufacturing",
+      "label": "No label"
+    },
+    {
+      "id": "place",
+      "label": "No label"
+    },
+    {
+      "id": "agreement",
+      "label": "No label"
+    },
+    {
+      "id": "December 2015",
+      "label": "DATE"
+    },
+    {
+      "id": "$16.7 billion",
+      "label": "MONEY"
+    },
+    {
+      "id": "the Programmable Solutions Group",
+      "label": "ORG"
+    },
+    {
+      "id": "billion",
+      "label": "No label"
+    },
+    {
+      "id": "cash.[20][21",
+      "label": "No label"
+    },
+    {
+      "id": "June 21, 2006",
+      "label": "DATE"
+    },
+    {
+      "id": "the U.S. Securities and Exchange Commission",
+      "label": "ORG"
+    },
+    {
+      "id": "1996 to 2005",
+      "label": "DATE"
+    },
+    {
+      "id": "2020.[25",
+      "label": "CARDINAL"
+    },
+    {
+      "id": "restated",
+      "label": "No label"
+    },
+    {
+      "id": "June",
+      "label": "No label"
+    },
+    {
+      "id": "investigation",
+      "label": "No label"
+    },
+    {
+      "id": "Commission",
+      "label": "No label"
+    },
+    {
+      "id": "1996",
+      "label": "No label"
+    },
+    {
+      "id": "from",
+      "label": "No label"
+    },
+    {
+      "id": "2005",
+      "label": "No label"
+    },
+    {
+      "id": "related",
+      "label": "No label"
+    },
+    {
+      "id": "backdating",
+      "label": "No label"
+    },
+    {
+      "id": "officer",
+      "label": "No label"
+    },
+    {
+      "id": "filed",
+      "label": "No label"
+    },
+    {
+      "id": "denied",
+      "label": "No label"
+    }
+  ],
+  "edges": [
+    {
+      "source": "1983",
+      "target": "founded",
+      "relation": "in"
+    },
+    {
+      "source": "Intel",
+      "target": "partnership",
+      "relation": "with"
+    },
+    {
+      "source": "Intel",
+      "target": "business",
+      "relation": "of"
+    },
+    {
+      "source": "Intel",
+      "target": "acquired",
+      "relation": "Altera"
+    },
+    {
+      "source": "Intel",
+      "target": "was",
+      "relation": "under"
+    },
+    {
+      "source": "2015",
+      "target": "acquired",
+      "relation": "in"
+    },
+    {
+      "source": "2024",
+      "target": "becoming",
+      "relation": "in"
+    },
+    {
+      "source": "2024",
+      "target": "start",
+      "relation": "of"
+    },
+    {
+      "source": "2024",
+      "target": "As",
+      "relation": "of"
+    },
+    {
+      "source": "Corporation",
+      "target": "is",
+      "relation": "manufacturer"
+    },
+    {
+      "source": "is",
+      "target": "which",
+      "relation": "environment"
+    },
+    {
+      "source": "manufacturer",
+      "target": "devices",
+      "relation": "of"
+    },
+    {
+      "source": "devices",
+      "target": "integrated",
+      "relation": "fpga"
+    },
+    {
+      "source": "devices",
+      "target": "majority",
+      "relation": "of"
+    },
+    {
+      "source": "devices",
+      "target": "were",
+      "relation": "with"
+    },
+    {
+      "source": "devices",
+      "target": "All",
+      "relation": "of"
+    },
+    {
+      "source": "headquartered",
+      "target": "Jose",
+      "relation": "in"
+    },
+    {
+      "source": "acquired",
+      "target": "December",
+      "relation": "in"
+    },
+    {
+      "source": "acquired",
+      "target": "2000",
+      "relation": "in"
+    },
+    {
+      "source": "acquired",
+      "target": "Altera",
+      "relation": "business"
+    },
+    {
+      "source": "acquired",
+      "target": "order",
+      "relation": "in"
+    },
+    {
+      "source": "acquired",
+      "target": "1994",
+      "relation": "in"
+    },
+    {
+      "source": "acquired",
+      "target": "million.[17",
+      "relation": "for"
+    },
+    {
+      "source": "acquired",
+      "target": "billion",
+      "relation": "for"
+    },
+    {
+      "source": "becoming",
+      "target": "company",
+      "relation": "as"
+    },
+    {
+      "source": "company",
+      "target": "name",
+      "relation": "of"
+    },
+    {
+      "source": "company",
+      "target": "spinning",
+      "relation": "into"
+    },
+    {
+      "source": "company",
+      "target": "reestablish",
+      "relation": "name"
+    },
+    {
+      "source": "company",
+      "target": "announced",
+      "relation": "shipment"
+    },
+    {
+      "source": "company",
+      "target": "formed",
+      "relation": "partnership"
+    },
+    {
+      "source": "company",
+      "target": "restated",
+      "relation": "result"
+    },
+    {
+      "source": "company",
+      "target": "officer",
+      "relation": "of"
+    },
+    {
+      "source": "focused",
+      "target": "development",
+      "relation": "on"
+    },
+    {
+      "source": "focused",
+      "target": "FPGAs",
+      "relation": "on"
+    },
+    {
+      "source": "development",
+      "target": "technology",
+      "relation": "of"
+    },
+    {
+      "source": "technology",
+      "target": "based",
+      "relation": "on"
+    },
+    {
+      "source": "FPGAs",
+      "target": "systems",
+      "relation": "with"
+    },
+    {
+      "source": "FPGAs",
+      "target": "system",
+      "relation": "on"
+    },
+    {
+      "source": "FPGAs",
+      "target": "manufacturing",
+      "relation": "of"
+    },
+    {
+      "source": "500,000",
+      "target": "Newhagen",
+      "relation": "with"
+    },
+    {
+      "source": "500,000",
+      "target": "money",
+      "relation": "in"
+    },
+    {
+      "source": "1988",
+      "target": "became",
+      "relation": "in"
+    },
+    {
+      "source": "Altera",
+      "target": "became",
+      "relation": "unit"
+    },
+    {
+      "source": "Altera",
+      "target": "lines",
+      "relation": "from"
+    },
+    {
+      "source": "Altera",
+      "target": "offer",
+      "relation": "array"
+    },
+    {
+      "source": "Altera",
+      "target": "offers",
+      "relation": "core"
+    },
+    {
+      "source": "Altera",
+      "target": "offered",
+      "relation": "core"
+    },
+    {
+      "source": "Altera",
+      "target": "made",
+      "relation": "sdk"
+    },
+    {
+      "source": "Altera",
+      "target": "support",
+      "relation": "synthesis"
+    },
+    {
+      "source": "Altera",
+      "target": "announced",
+      "relation": "agreement"
+    },
+    {
+      "source": "Altera",
+      "target": "filed",
+      "relation": "petition"
+    },
+    {
+      "source": "name",
+      "target": "was",
+      "relation": "play"
+    },
+    {
+      "source": "was",
+      "target": "family",
+      "relation": "line.[19"
+    },
+    {
+      "source": "type",
+      "target": "chips",
+      "relation": "of"
+    },
+    {
+      "source": "became",
+      "target": "offering",
+      "relation": "via"
+    },
+    {
+      "source": "December",
+      "target": "Beginning",
+      "relation": "in"
+    },
+    {
+      "source": "announced",
+      "target": "October",
+      "relation": "in"
+    },
+    {
+      "source": "announced",
+      "target": "February",
+      "relation": "in"
+    },
+    {
+      "source": "announced",
+      "target": "chip",
+      "relation": "on"
+    },
+    {
+      "source": "announced",
+      "target": "place",
+      "relation": "in"
+    },
+    {
+      "source": "spinning",
+      "target": "start",
+      "relation": "at"
+    },
+    {
+      "source": "seek",
+      "target": "years.[4][5",
+      "relation": "within"
+    },
+    {
+      "source": "lines",
+      "target": "are",
+      "relation": "line"
+    },
+    {
+      "source": "are",
+      "target": "These",
+      "relation": "device"
+    },
+    {
+      "source": "are",
+      "target": "SoC",
+      "relation": "system"
+    },
+    {
+      "source": "are",
+      "target": "family",
+      "relation": "system"
+    },
+    {
+      "source": "array",
+      "target": "cores",
+      "relation": "of"
+    },
+    {
+      "source": "cores",
+      "target": "eliminate",
+      "relation": "some"
+    },
+    {
+      "source": "cores",
+      "target": "providers",
+      "relation": "of"
+    },
+    {
+      "source": "engineers",
+      "target": "drop",
+      "relation": "that"
+    },
+    {
+      "source": "drop",
+      "target": "designs",
+      "relation": "into"
+    },
+    {
+      "source": "some",
+      "target": "tasks",
+      "relation": "of"
+    },
+    {
+      "source": "creating",
+      "target": "design",
+      "relation": "in"
+    },
+    {
+      "source": "design",
+      "target": "scratch",
+      "relation": "from"
+    },
+    {
+      "source": "move",
+      "target": "delivery",
+      "relation": "towards"
+    },
+    {
+      "source": "delivery",
+      "target": "solutions.[8][9",
+      "relation": "of"
+    },
+    {
+      "source": "system",
+      "target": "chip",
+      "relation": "on"
+    },
+    {
+      "source": "system",
+      "target": "shipment",
+      "relation": "of"
+    },
+    {
+      "source": "system",
+      "target": "logic",
+      "relation": "with"
+    },
+    {
+      "source": "system",
+      "target": "variant",
+      "relation": "with"
+    },
+    {
+      "source": "system",
+      "target": "integrated",
+      "relation": "as"
+    },
+    {
+      "source": "system",
+      "target": "based",
+      "relation": "upon"
+    },
+    {
+      "source": "silicon",
+      "target": "process",
+      "relation": "on"
+    },
+    {
+      "source": "which",
+      "target": "have",
+      "relation": "system"
+    },
+    {
+      "source": "logic",
+      "target": "chip.[10",
+      "relation": "on"
+    },
+    {
+      "source": "integrated",
+      "target": "FPGA",
+      "relation": "with"
+    },
+    {
+      "source": "based",
+      "target": "architecture",
+      "relation": "on"
+    },
+    {
+      "source": "based",
+      "target": "device.[11][12",
+      "relation": "onto"
+    },
+    {
+      "source": "available",
+      "target": "variant",
+      "relation": "as"
+    },
+    {
+      "source": "targeted",
+      "target": "use",
+      "relation": "for"
+    },
+    {
+      "source": "use",
+      "target": "communications",
+      "relation": "in"
+    },
+    {
+      "source": "variants",
+      "target": "power",
+      "relation": "for"
+    },
+    {
+      "source": "that",
+      "target": "includes",
+      "relation": "tool"
+    },
+    {
+      "source": "OpenCL",
+      "target": "SDK",
+      "relation": "for"
+    },
+    {
+      "source": "made",
+      "target": "May",
+      "relation": "in"
+    },
+    {
+      "source": "capabilities",
+      "target": "devices.[16",
+      "relation": "of"
+    },
+    {
+      "source": "1984",
+      "target": "formed",
+      "relation": "in"
+    },
+    {
+      "source": "TSMC.[18",
+      "target": "agreement",
+      "relation": "with"
+    },
+    {
+      "source": "node",
+      "target": "manufacturing",
+      "relation": "for"
+    },
+    {
+      "source": "place",
+      "target": "agreement",
+      "relation": "of"
+    },
+    {
+      "source": "billion",
+      "target": "cash.[20][21",
+      "relation": "in"
+    },
+    {
+      "source": "2020.[25",
+      "target": "denied",
+      "relation": "in"
+    },
+    {
+      "source": "restated",
+      "target": "June",
+      "relation": "on"
+    },
+    {
+      "source": "restated",
+      "target": "investigation",
+      "relation": "after"
+    },
+    {
+      "source": "restated",
+      "target": "1996",
+      "relation": "from"
+    },
+    {
+      "source": "investigation",
+      "target": "Commission",
+      "relation": "by"
+    },
+    {
+      "source": "from",
+      "target": "2005",
+      "relation": "to"
+    },
+    {
+      "source": "related",
+      "target": "backdating",
+      "relation": "to"
+    }
+  ]
+}

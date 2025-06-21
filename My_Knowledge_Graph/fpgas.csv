@@ -1,0 +1,3 @@
+model,RAM_size,logic_elements
+Stratix,256 KB,100000
+Cyclone,128 KB,50000

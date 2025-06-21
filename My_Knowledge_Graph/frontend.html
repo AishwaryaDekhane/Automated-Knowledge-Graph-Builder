@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automated Knowledge Graph Chatbot</title>
+    <style>
+        /* Your existing CSS styles */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Automated Knowledge Graph Chatbot</h1>
+        <input type="file" id="inputFile">
+        <button onclick="uploadFile()">Submit</button>
+        <div class="output-box" id="outputBox">Your result will appear here.</div>
+        <button onclick="convertToFile()">Convert to File</button>
+        <a id="downloadLink" style="display:none;" download="output.txt">
+            <button>Download File</button>
+        </a>
+    </div>
+
+    <script>
+        async function uploadFile() {
+            const fileInput = document.getElementById('inputFile');
+            const file = fileInput.files[0];
+            if (!file) {
+                alert('Please select a file.');
+                return;
+            }
+
+            // Create FormData object
+            const formData = new FormData();
+            formData.append('file', file);
+
+            try {
+                // Send the file to the backend
+                const response = await fetch('http://localhost:5000/generate-graph', {
+                    method: 'POST',
+                    body: JSON.stringify({ file_path: file.name }), // Adjust file path as needed
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+
+                if (!response.ok) {
+                    throw new Error('Network response was not ok.');
+                }
+
+                const result = await response.json();
+                document.getElementById('outputBox').innerText = result.message;
+            } catch (error) {
+                console.error('Error uploading file:', error);
+                document.getElementById('outputBox').innerText = 'Error uploading file.';
+            }
+        }
+
+        function convertToFile() {
+            // Get the result text
+            const resultText = document.getElementById('outputBox').innerText;
+
+            // Create a Blob with the result text
+            const blob = new Blob([resultText], { type: 'text/plain' });
+
+            // Create an Object URL for the Blob
+            const url = URL.createObjectURL(blob);
+
+            // Set the href of the download link to the Object URL
+            const downloadLink = document.getElementById('downloadLink');
+            downloadLink.href = url;
+            downloadLink.style.display = 'inline'; // Show the download button
+
+            // Set the filename for the download
+            downloadLink.download = 'output.txt';
+        }
+    </script>
+</body>
+</html>
